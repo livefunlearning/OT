@@ -1,116 +1,140 @@
-
+<!DOCTYPE html>
 <html>
   <head>
-    
-<meta charset="utf-8" >
+    <meta charset="utf-8" >
 
 <title>Live &amp; Fun Learning</title>
-<meta name="description" content="Be A Teacher">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="http://localhost:4000/favicon.ico?v=1578299987321">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-<link rel="stylesheet" href="http://localhost:4000/styles/main.css">
+<link rel="shortcut icon" href="https://livefunlearning.github.io/favicon.ico?v=1578324545060">
+<link rel="stylesheet" href="https://livefunlearning.github.io/styles/main.css">
 
 
 
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
 
 
+    <meta name="description" content="Be A Teacher">
+    
   </head>
   <body>
     <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      <a href="http://localhost:4000">
-        <img class="avatar" src="http://localhost:4000/images/avatar.png?v=1578299987321" alt="" width="32px" height="32px">
-      </a>
-      <a href="http://localhost:4000">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://livefunlearning.github.io">
+        <img src="https://livefunlearning.github.io/images/avatar.png?v=1578324545060" class="site-logo">
         <h1 class="site-title">Live &amp; Fun Learning</h1>
       </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
     </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
-    </div>
-  </div>
-</div>
-
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
+    <div>
       
         
-          <a href="/" class="menu purple-link">
+          <a href="/" class="site-nav">
             首页
           </a>
         
       
-        
-          <a href="/archives" class="menu purple-link">
-            归档
-          </a>
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
         
       
         
-          <a href="/tags" class="menu purple-link">
-            标签
-          </a>
+      
         
       
         
-          <a href="/post/about" class="menu purple-link">
-            关于
-          </a>
+      
         
       
     </div>
+    <div class="site-description">
+      Be A Teacher
+    </div>
+    <div class="site-footer">
+      Made with 🧡💛💚 by <a href="www.livefunlearning.com" target="_blank">Live & Fun Learning</a> | <a class="rss" href="https://livefunlearning.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
   </div>
-</transition>
+</div>
 
 
-      <div class="content-container">
-        
-        
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://livefunlearning.github.io/post/first-tutoring">
+                  <h2 class="post-title">First Tutoring</h2>
+                </a>
+                <div class="post-date">
+                  2020-01-05
+                </div>
+                <div class="post-abstract">
+                  <p>​<!-- more --></p>
+<h2 id="step-1-联系学生"><strong>Step 1  联系学生</strong></h2>
+<p>大多数中国人习惯将沟通、生活、学习、工作都交给便利的微信，而LFL外国学生则更喜欢将沟通(email)、上课(Skype/Zoom)、个人生活(Facebook/Instagram/Twitter/WhatsApp)分开交给不同的APP。鉴于师生不同的习惯，我们建议教师：</p>
+<p>发Welcome Email确认首次上课时间，并告知上课工具(如Skype)和教师其它联系方式(如微信号)</p>
+<ol>
+<li>Email：修改并发送Welcome Email - <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=1&amp;sn=9815fb077dd6c92818f410c2c3ae5907&amp;chksm=3e8e281d09f9a10b6efe61d081762f7d1acc3f3c6d07b339e618b8679ee1a86ba727f7ca1bcd#rd">密歇根</a> | <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=2&amp;sn=db5c015c385f63dcb6b4fddfb5d1cd3f&amp;chksm=3e8e281d09f9a10bd451d477fe085b3fc0f10501cb12eb2bcedcb786d4c2b94fec913031a8cf#rd">布兰戴斯</a> | <a href="http://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=3&amp;sn=e5d5de39fbe0e81bfc5124d82af5752d&amp;chksm=3e8e281d09f9a10b1913abd65410963cb5d8671f1431e33cd56afdf1ca49680657a4e8ab2356#rd">诺丁汉</a> | <a href="https://t.1yb.co/3F3">纽大</a></li>
+<li>微信：如学生有微信，可打招呼、发送Welcome Email截图；如学生无微信或微信号有误，可在邮件中询问是否愿意使用微信，并提供微信注册、认证的方式及其相关帮助</li>
+<li>(如有)Skype：教师可用个人Hotmail或Outlook地址登录Skype，给学生打招呼、发送Welcome Email截图作为提醒</li>
+<li>(如有)非国内社交网：若学生在注册表中提供了个人social media信息，教师可利用「科学上网工具」，进一步了解学生并与其建立联系。「科学上网工具」是什么、怎么用？请百度查询；推荐的工具见“LFL云盘/技术支持”。</li>
+</ol>
+<p>​<!-- more --></p>
+<h2 id="step-2-联络状态"><strong>Step 2  联络状态</strong></h2>
+<p>Welcome Email(WE)发送后，教师需及时告知LFL联络进度。</p>
+<h3 id="状态一-联络成功">状态一 · <strong>联络成功</strong></h3>
+<p>适用于：师生二人用任何一种联络工具确认了首次上课的时间与工具——每周上课时间不需固定，可与学生商定。注意，不少外国学生习惯于仅在当时回复Welcome Email，临上课前再登录视频工具(如Skype)并添加老师。该情况也属于「联络成功」。</p>
+<p>处理方式：LFL公众号(Livefunlearning)菜单→LFL成员→联络结果(<a href="https://6url.cn/MwsMal">图示</a>)</p>
+<h3 id="状态二-学生未回复">状态二 · <strong>学生未回复</strong></h3>
+<p>适用于：Welcome Email(WE)发送后<strong>2个工作日</strong>未收到学生回复。</p>
+<p>处理方式：</p>
+<ul>
+<li>查看垃圾邮件箱或广告邮件箱</li>
+<li>检查已发送邮件是否预约时间等信息有误，学生可能看不明白，需重发邮件</li>
+<li>学生是否提供了上文中的“其他工具”并且尚未联络</li>
+<li>如以上步骤均无误。教师将WE<strong>原邮件转发</strong>至livefunlearning@hotmail.com，并在正文处说明除邮件外还用什么方式联系了学生。</li>
+</ul>
+<h3 id="状态三-学生drop">状态三 · <strong>学生Drop</strong></h3>
+<p>适用于：学生告知不再继续上中文课或退选Online Tutoring</p>
+<p>处理方式：教师将与学生沟通的往来<strong>原邮件转发</strong>至livefunlearning@hotmail.com。随后，将给教师重新安排学生。</p>
+<p>​</p>
 
-<div class="pagination-container">
+                </div>
+              </div>
+              
+                <a class="right" href="https://livefunlearning.github.io/post/first-tutoring">
+                  <div class="feature-container" style="background-image: url('https://raw.githubusercontent.com/livefunlearning/pic/master/first%20tutoring.png')">
+                  </div>
+                </a>
+              
+            </article>
+          
+
+          <div class="pagination-container">
   
   
 </div>
 
-
+        </div>
       </div>
-
-      <div class="site-footer">
-  <div class="slogan">Be A Teacher</div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-  Made with 🧡💛💚 by <a href="www.livefunlearning.com" target="_blank">Live & Fun Learning</a> | <a class="rss" href="http://localhost:4000/atom.xml" target="_blank">RSS</a>
-</div>
-
-
     </div>
-    <script type="application/javascript">
 
-hljs.initHighlightingOnLoad()
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
 
 var app = new Vue({
   el: '#app',
@@ -120,6 +144,8 @@ var app = new Vue({
 })
 
 </script>
+
+
 
 
 
