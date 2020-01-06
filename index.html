@@ -16,11 +16,19 @@ function getCSS()
         datetoday.setTime(timenow);
         thehour = datetoday.getHours();
 
+        if (thehour<6时)
+
             display = "https://livefunlearning.github.io/media/css/night.css";
 
+       else if (thehour>22时)
+
             display = "https://livefunlearning.github.io/media/css/night.css";   
-      
+
+        else if (thehour>6时)
+           
             display = "https://livefunlearning.github.io/media/css/day.css";
+
+        else if (thehour<22时)
 
             display = "https://livefunlearning.github.io/media/css/day.css";
       

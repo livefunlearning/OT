@@ -1438,7 +1438,7 @@ h5:before {
   top: 0;
   left: -20px;
   content: '#';
-  color: #FAE0E0;
+  color: #69779b;
   font-size: 1.2em;
   line-height: 1.2em;
 }
@@ -1453,7 +1453,7 @@ img {
   margin: 0 auto;
 }
 a {
-  color: #FAE0E0;
+  color: #69779b;
   text-decoration: none;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -1463,7 +1463,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #FAE0E0;
+  color: #69779b;
   outline: none;
   text-decoration: none;
 }
@@ -1474,7 +1474,7 @@ a:active {
 header {
   text-align: center;
   padding: 120px 0px 40px 0px;
-  background: #5E6072 center no-repeat;
+  background: #acdbdf center no-repeat;
   font-size: 16px;
   color: #fff;
   background-size: cover;
@@ -1535,7 +1535,7 @@ header {
 }
 #nav-wrapper .dove .current-menu-item > a,
 #nav-wrapper .dove a:hover {
-  color: #5E6072;
+  color: #acdbdf;
 }
 #nav-wrapper .menu-item-has-children {
   position: relative;
@@ -1587,7 +1587,7 @@ header {
   transform: translateY(-50%);
 }
 #nav-wrapper .sub-menu a:hover {
-  color: #5E6072;
+  color: #acdbdf;
 }
 .xiaosong {
   padding: 0;
@@ -1609,7 +1609,7 @@ header {
   border-radius: 3px;
 }
 #nav-wrapper .xiaosong a:hover {
-  color: #5E6072;
+  color: #acdbdf;
 }
 .jingge a {
   color: #fff;
@@ -1617,7 +1617,7 @@ header {
   margin: 4px 8px;
 }
 .jingge a:hover {
-  color: #5E6072;
+  color: #acdbdf;
 }
 table {
   width: 100%;
@@ -1732,7 +1732,7 @@ article .entry-title > a,
   text-transform: uppercase;
 }
 #content article .link-more:hover {
-  color: #FAE0E0;
+  color: #69779b;
 }
 .posttou {
   display: block;
@@ -2194,7 +2194,7 @@ ul.links li:hover .bg {
     padding: 0 15px;
   }
   .nav-toggle {
-    background-color: #FAE0E0;
+    background-color: #69779b;
     border-radius: 99px;
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
     display: block;
@@ -2457,3 +2457,8 @@ ul.links li:hover .bg {
     background-color: #aaa;
   }
 }
+
+    .valine {
+        display: none;
+      }
+    
