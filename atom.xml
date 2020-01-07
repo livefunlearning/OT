@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-01-07T16:55:01.868Z</updated>
+    <updated>2020-01-07T16:58:35.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://livefunlearning.github.io/post/first-tutoring">
         </link>
         <updated>2020-01-05T14:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="step-1-联系学生"><strong>Step 1  联系学生</strong></h2>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/%E5%B0%81%E9%9D%A2%E5%9B%BE-first%20tutoring.png" alt="" loading="lazy"></figure>
+<h2 id="step-1-联系学生"><strong>Step 1  联系学生</strong></h2>
 <p>大多数中国人习惯将沟通、生活、学习、工作都交给便利的微信，而LFL外国学生则更喜欢将沟通(Email)、上课(Skype/Zoom)、个人生活(Facebook/Instagram/Twitter/WhatsApp)分开交给不同的APP。鉴于师生的不同习惯，建议教师：</p>
 <p>发Welcome Email确认首次上课时间，说明上课工具(如Skype)与教师其它联系方式(如微信号)</p>
 <ol>
@@ -97,8 +98,8 @@ Best,
 {teacher's name}
 </code></pre>
 <p>​</p>
-<figure data-type="image" tabindex="1"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9knlnkvo6j31ag0t2aev.jpg" alt="https://tva1.sinaimg.cn/large/006tNbRwly1g9knlnkvo6j31ag0t2aev.jpg" loading="lazy"></figure>
-<figure data-type="image" tabindex="2"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9ly261jrmj31hc0u0gqk.jpg" alt="https://tva1.sinaimg.cn/large/006tNbRwly1g9ly261jrmj31hc0u0gqk.jpg" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9knlnkvo6j31ag0t2aev.jpg" alt="https://tva1.sinaimg.cn/large/006tNbRwly1g9knlnkvo6j31ag0t2aev.jpg" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9ly261jrmj31hc0u0gqk.jpg" alt="https://tva1.sinaimg.cn/large/006tNbRwly1g9ly261jrmj31hc0u0gqk.jpg" loading="lazy"></figure>
 <hr>
 ]]></content>
     </entry>
