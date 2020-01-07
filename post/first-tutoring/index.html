@@ -17,19 +17,11 @@ function getCSS()
         datetoday.setTime(timenow);
         thehour = datetoday.getHours();
 
-        if (thehour<6时)
-
             display = "https://livefunlearning.github.io/media/css/night.css";
 
-       else if (thehour>22时)
-
             display = "https://livefunlearning.github.io/media/css/night.css";   
-
-        else if (thehour>6时)
-           
+      
             display = "https://livefunlearning.github.io/media/css/day.css";
-
-        else if (thehour<22时)
 
             display = "https://livefunlearning.github.io/media/css/day.css";
       
@@ -63,6 +55,8 @@ window.onload=getCSS();
         
 			
 		<header id="header" class="site-header" 
+		
+		style="background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url(https://livefunlearning.github.io/post-images/first-tutoring.png)"
 		
 		>
 			<div class="site-branding">

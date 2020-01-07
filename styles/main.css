@@ -1406,7 +1406,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Avenir Light", sans-serif;
   font-weight: normal;
   line-height: normal;
   margin: 0 0 15px 0;
@@ -1438,7 +1438,7 @@ h5:before {
   top: 0;
   left: -20px;
   content: '#';
-  color: #69779b;
+  color: #EDD285;
   font-size: 1.2em;
   line-height: 1.2em;
 }
@@ -1453,7 +1453,7 @@ img {
   margin: 0 auto;
 }
 a {
-  color: #69779b;
+  color: #5574BE;
   text-decoration: none;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -1463,7 +1463,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #69779b;
+  color: #EDD285;
   outline: none;
   text-decoration: none;
 }
@@ -1474,13 +1474,13 @@ a:active {
 header {
   text-align: center;
   padding: 120px 0px 40px 0px;
-  background: #acdbdf center no-repeat;
+  background: #212121 center no-repeat;
   font-size: 16px;
   color: #fff;
   background-size: cover;
 }
 .site-header h1 {
-  font-family: 'Dancing Script', 'Liu Jian Mao Cao', sans-serif;
+  font-family: 'Dancing Script', 'Avenir Light', sans-serif;
   font-size: 100px;
 }
 .site-title {
@@ -1535,7 +1535,7 @@ header {
 }
 #nav-wrapper .dove .current-menu-item > a,
 #nav-wrapper .dove a:hover {
-  color: #acdbdf;
+  color: #5E6072;
 }
 #nav-wrapper .menu-item-has-children {
   position: relative;
@@ -1587,7 +1587,7 @@ header {
   transform: translateY(-50%);
 }
 #nav-wrapper .sub-menu a:hover {
-  color: #acdbdf;
+  color: #5E6072;
 }
 .xiaosong {
   padding: 0;
@@ -1609,7 +1609,7 @@ header {
   border-radius: 3px;
 }
 #nav-wrapper .xiaosong a:hover {
-  color: #acdbdf;
+  color: #212121;
 }
 .jingge a {
   color: #fff;
@@ -1617,7 +1617,7 @@ header {
   margin: 4px 8px;
 }
 .jingge a:hover {
-  color: #acdbdf;
+  color: #212121;
 }
 table {
   width: 100%;
@@ -1732,7 +1732,7 @@ article .entry-title > a,
   text-transform: uppercase;
 }
 #content article .link-more:hover {
-  color: #69779b;
+  color: #5574BE;
 }
 .posttou {
   display: block;
@@ -1974,7 +1974,7 @@ ul.links li {
   transition: 0.3s;
 }
 ul.links li {
-  background: #f3f4f5;
+  background: #FEFEFD;
   box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.1) inset;
 }
 ul.links li:hover {
@@ -2077,7 +2077,7 @@ ul.links li:hover .bg {
 .copyright {
   color: #999;
   float: left;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Avenir Light", sans-serif;
   font-size: 10px;
   font-weight: 400;
   letter-spacing: 2px;
@@ -2194,7 +2194,7 @@ ul.links li:hover .bg {
     padding: 0 15px;
   }
   .nav-toggle {
-    background-color: #69779b;
+    background-color: #5E6072;
     border-radius: 99px;
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
     display: block;
@@ -2458,7 +2458,7 @@ ul.links li:hover .bg {
   }
 }
 
-    header {background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url(https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/封面图-LFL.png);}
+    header {background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url(https://i.loli.net/2020/01/08/7NxciEXfGaBpvJ4.jpg);}
     
     
     .valine {
