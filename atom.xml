@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-01-07T16:50:36.536Z</updated>
+    <updated>2020-01-07T16:55:01.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -16,22 +16,20 @@
         <link href="https://livefunlearning.github.io/post/first-tutoring">
         </link>
         <updated>2020-01-05T14:00:00.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p>​<!-- more --></p>
-<h2 id="step-1-联系学生"><strong>Step 1  联系学生</strong></h2>
-<p>大多数中国人习惯将沟通、生活、学习、工作都交给便利的微信，而LFL外国学生则更喜欢将沟通(email)、上课(Skype/Zoom)、个人生活(Facebook/Instagram/Twitter/WhatsApp)分开交给不同的APP。鉴于师生不同的习惯，我们建议教师：</p>
-<p>发Welcome Email确认首次上课时间，并告知上课工具(如Skype)和教师其它联系方式(如微信号)</p>
+        <content type="html"><![CDATA[<h2 id="step-1-联系学生"><strong>Step 1  联系学生</strong></h2>
+<p>大多数中国人习惯将沟通、生活、学习、工作都交给便利的微信，而LFL外国学生则更喜欢将沟通(Email)、上课(Skype/Zoom)、个人生活(Facebook/Instagram/Twitter/WhatsApp)分开交给不同的APP。鉴于师生的不同习惯，建议教师：</p>
+<p>发Welcome Email确认首次上课时间，说明上课工具(如Skype)与教师其它联系方式(如微信号)</p>
 <ol>
-<li>Email：修改并发送Welcome Email - <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=1&amp;sn=9815fb077dd6c92818f410c2c3ae5907&amp;chksm=3e8e281d09f9a10b6efe61d081762f7d1acc3f3c6d07b339e618b8679ee1a86ba727f7ca1bcd#rd">密歇根</a> | <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=2&amp;sn=db5c015c385f63dcb6b4fddfb5d1cd3f&amp;chksm=3e8e281d09f9a10bd451d477fe085b3fc0f10501cb12eb2bcedcb786d4c2b94fec913031a8cf#rd">布兰戴斯</a> | <a href="http://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=3&amp;sn=e5d5de39fbe0e81bfc5124d82af5752d&amp;chksm=3e8e281d09f9a10b1913abd65410963cb5d8671f1431e33cd56afdf1ca49680657a4e8ab2356#rd">诺丁汉</a> | <a href="https://t.1yb.co/3F3">纽大</a></li>
+<li>Email：参考Welcome Email示例 - <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=1&amp;sn=9815fb077dd6c92818f410c2c3ae5907&amp;chksm=3e8e281d09f9a10b6efe61d081762f7d1acc3f3c6d07b339e618b8679ee1a86ba727f7ca1bcd#rd">密歇根</a> | <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=2&amp;sn=db5c015c385f63dcb6b4fddfb5d1cd3f&amp;chksm=3e8e281d09f9a10bd451d477fe085b3fc0f10501cb12eb2bcedcb786d4c2b94fec913031a8cf#rd">布兰戴斯</a> | <a href="http://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=3&amp;sn=e5d5de39fbe0e81bfc5124d82af5752d&amp;chksm=3e8e281d09f9a10b1913abd65410963cb5d8671f1431e33cd56afdf1ca49680657a4e8ab2356#rd">诺丁汉</a> | <a href="https://t.1yb.co/3F3">纽大</a></li>
 <li>微信：如学生有微信，可打招呼、发送Welcome Email截图；如学生无微信或微信号有误，可在邮件中询问是否愿意使用微信，并提供微信注册、认证的方式及其相关帮助</li>
 <li>(如有)Skype：教师可用个人Hotmail或Outlook地址登录Skype，给学生打招呼、发送Welcome Email截图作为提醒</li>
-<li>(如有)非国内社交网：若学生在注册表中提供了个人social media信息，教师可利用「科学上网工具」，进一步了解学生并与其建立联系。「科学上网工具」是什么、怎么用？请百度查询；推荐的工具见“LFL云盘/技术支持”。</li>
+<li>(如有)非国内社交网：学生的注册表如有social media信息，教师可利用「科学上网工具」进一步了解学生并与其建立联系。「科学上网工具」是什么、怎么用？请百度查询；推荐的工具见“LFL云盘/技术支持”。</li>
 </ol>
-<p>​<!-- more --></p>
+<p>​</p>
 <h2 id="step-2-联络状态"><strong>Step 2  联络状态</strong></h2>
-<p>Welcome Email(WE)发送后，教师需及时告知LFL联络进度。</p>
+<p>Welcome Email(WE)发送后，教师需及时反馈最新的联络进展。</p>
 <h3 id="状态一-联络成功">状态一 · <strong>联络成功</strong></h3>
-<p>适用于：师生二人用任何一种联络工具确认了首次上课的时间与工具——每周上课时间不需固定，可与学生商定。注意，不少外国学生习惯于仅在当时回复Welcome Email，临上课前再登录视频工具(如Skype)并添加老师。该情况也属于「联络成功」。</p>
+<p>适用于：师生二人用任何一种联络工具确认了首次上课的时间与工具——每周上课时间是否固定，可与学生商定。注意，不少外国学生习惯于仅回复商定时间的邮件或消息，当日课前才登录上课工具(如Skype)并添加对方账号。该情况也属于「联络成功」。</p>
 <p>处理方式：LFL公众号(Livefunlearning)菜单→LFL成员→联络结果(<a href="https://6url.cn/MwsMal">图示</a>)</p>
 <h3 id="状态二-学生未回复">状态二 · <strong>学生未回复</strong></h3>
 <p>适用于：Welcome Email(WE)发送后<strong>2个工作日</strong>未收到学生回复。</p>
@@ -46,14 +44,13 @@
 <p>适用于：学生告知不再继续上中文课或退选Online Tutoring</p>
 <p>处理方式：教师将与学生沟通的往来<strong>原邮件转发</strong>至livefunlearning@hotmail.com。随后，将给教师重新安排学生。</p>
 <p>​</p>
-<!-- more -->
 <h2 id="step-3-pre-tutoring聊天"><strong>Step 3  Pre-tutoring聊天</strong></h2>
 <p>Pre-tutoring是指第一次上课前或上课时，抽5分钟时间，以轻松的方式跟学生“聊天”，实则为了准确定位学生的中文水平、学习特点、兴趣爱好等。如何聊？请参看《LFL Teacher Handbook》介绍。</p>
-<p>​<!-- more --></p>
+<p>​</p>
 <h2 id="step-4-备课"><strong>Step 4  备课</strong></h2>
 <p>第一周使用的教案：需独自准备或组内自行讨论——注册期常有变动，LFL不组织集体备课。根据学生所在大学的课程进度表(见云盘)准备已学内容。​</p>
 <p>第二周使用的教案：LFL组织集体备课。一般来说，教案会提前一周准备好。</p>
-<p>​<!-- more --></p>
+<p>​</p>
 <h2 id="step-5-上课"><strong>Step 5 上课</strong></h2>
 <h3 id="时间">时间</h3>
 <ul>
@@ -74,7 +71,6 @@
 <h2 id="smart-working"><strong>SMART WORKING</strong></h2>
 <p>就像教师注重学生的课堂表现与学习能力一样，我们看重的不只是教师的教学素养，还有工作能力。若想顺利通过实习，得到LFL、LFL外方大学及其学生的认可，“死工作”可不是一个好办法。以下分享一下“LFL历届教师”的高效工作方法。</p>
 <p>强烈推荐：《<a href="http://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502443175&amp;idx=2&amp;sn=ce42a0b6e45c52099456c9683425fc89&amp;chksm=3e8e2d6309f9a4753ff31dc4165c1af872a59f9550c3afd64641dda14c10590da063306e44ea#rd">李娅的OT工作方式</a>》——李娅老师如何用最少的时间保证高效教学与高效工作。</p>
-<!-- more -->
 <h3 id="高效方法一-合理安排课堂">高效方法一 · 合理安排课堂</h3>
 <ul>
 <li>每节课时间有限。根据每个学生的情况与特点，提前将教学内容分为“轻重缓急”不同的部分，并预估每部分的教学时间。</li>
@@ -83,7 +79,6 @@
 <li>降低教学工具的干扰。测试并选择更好的网络环境、话筒、听筒，并提醒学生做以上准备。让网络质量较好的一方，发起视频邀请。上课时如果视频质量不好，立即改为语音。减慢语速、增加确认次数。</li>
 <li>灵活使用中英文。即使学生所在大学或LFL要求上课语言全中文，这并不代表一句英文都不能说。在学生不明白老师所表达的意思并影响到课堂效率时，请使用完整英文语句。毕竟很多人在二语交流不畅时都会紧张起来，担心是自己的错，包括外国人。营造轻松的氛围，一步一步为学生建立自信，是保证教学效果的关键。</li>
 </ul>
-<!-- more -->
 <h3 id="高效方法二-减少迟到-缺勤">高效方法二 · 减少迟到、缺勤</h3>
 <p>LFL外国学生都是需自己决定、自己负责的成年人。Online Tutoring学生注册说明、第一次上课老师发送的课堂规定中，都清楚解释了学生表现对OT期末成绩的影响。 因此，在学生不得不选择迟到或缺勤时，请老师们尊重学生的选择。关于学生迟到、缺勤等问题的处理方式，可参看“云盘→LFL规章制度→LFL在线教学实习项目制度”。</p>
 <p>不过，迟到或缺勤不仅会影响教学进度，还会影响教师当日或当周的各项安排。因此，我们建议：每次下课前，跟学生约定下一次的上课时间；开始上课的前一天，发送提醒消息( <a href="https://i.loli.net/2020/01/04/MvjUZiR7SFTe6Yx.png">图示</a> )。</p>
@@ -102,9 +97,9 @@ Best,
 {teacher's name}
 </code></pre>
 <p>​</p>
-<!-- more -->
 <figure data-type="image" tabindex="1"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9knlnkvo6j31ag0t2aev.jpg" alt="https://tva1.sinaimg.cn/large/006tNbRwly1g9knlnkvo6j31ag0t2aev.jpg" loading="lazy"></figure>
-<h2 id=""><img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9ly261jrmj31hc0u0gqk.jpg" alt="https://tva1.sinaimg.cn/large/006tNbRwly1g9ly261jrmj31hc0u0gqk.jpg" loading="lazy"></h2>
+<figure data-type="image" tabindex="2"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9ly261jrmj31hc0u0gqk.jpg" alt="https://tva1.sinaimg.cn/large/006tNbRwly1g9ly261jrmj31hc0u0gqk.jpg" loading="lazy"></figure>
+<hr>
 ]]></content>
     </entry>
 </feed>
