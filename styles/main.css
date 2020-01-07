@@ -2458,6 +2458,9 @@ ul.links li:hover .bg {
   }
 }
 
+    header {background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url(https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/封面图-LFL.png);}
+    
+    
     .valine {
         display: none;
       }
