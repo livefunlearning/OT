@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-01-08T15:18:38.421Z</updated>
+    <updated>2020-01-08T15:19:27.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -104,6 +104,114 @@ Best,
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zoom使用指南]]></title>
+        <id>https://livefunlearning.github.io/post/Zoom Handbook</id>
+        <link href="https://livefunlearning.github.io/post/Zoom Handbook">
+        </link>
+        <updated>2019-12-01T14:05:02.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>目录
+1. 下载安装
+2. 使用
+​    2.1 注册与验证
+​    2.2 进入网络课堂
+​    2.3 屏幕共享
+​    2.4 白板与标记笔
+​    2.5 视频录制与保存
+​    2.6 其它操作视频演示(英文)
+</code></pre>
+<p>​</p>
+<h1 id="1-下载与安装">1. 下载与安装</h1>
+<p>苹果iPhone/iPad/Mac：<a href="https://apps.apple.com/cn/app/id546505307">https://apps.apple.com/cn/app/id546505307</a></p>
+<p>安卓：<a href="https://downloadus.zoom.cn/">https://downloadus.zoom.cn/</a></p>
+<p>Win电脑：<a href="https://zoom.com.cn/download">https://zoom.com.cn/download</a> (Zoom会议客户端)<br>
+​</p>
+<h1 id="2-使用">2. 使用</h1>
+<h3 id="21-注册与验证">2.1 注册与验证</h3>
+<ul>
+<li>
+<p>老用户：可使用原账号与密码登录。上课前两日内绑定手机号验证，然后可看到自己的会议ID。</p>
+<ol>
+<li>
+<p>APP更新至最新版</p>
+</li>
+<li>
+<p>原账号登录</p>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2019/12/10/MR7TAv9nNmg1IX3.jpg" alt="https://i.loli.net/2019/12/10/MR7TAv9nNmg1IX3.jpg" loading="lazy"></figure>
+</li>
+<li>
+<p>点击「新会议」</p>
+<figure data-type="image" tabindex="2"><img src="https://i.loli.net/2019/12/10/XPY82udRgbDJ5El.jpg" alt="https://i.loli.net/2019/12/10/XPY82udRgbDJ5El.jpg" loading="lazy"></figure>
+</li>
+<li>
+<p>进入「验证手机号」页面</p>
+<p><img src="https://i.loli.net/2019/12/10/RYwP4Kqoh8lCiMV.jpg" alt="https://i.loli.net/2019/12/10/RYwP4Kqoh8lCiMV.jpg" loading="lazy"><br>
+​</p>
+</li>
+</ol>
+</li>
+<li>
+<p>新用户：受政策影响，自2019年9月起Zoom调整了中国区用户的使用方式。目前，Zoom尚未给中国区新用户开通注册渠道。</p>
+<ul>
+<li>
+<p>方式一：未在境内、国内、有科学上网工具的老师，可在<a href="https://zoom.us/singup">zoom.us/singup</a>用Email注册</p>
+<figure data-type="image" tabindex="3"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1gapiskr0a2j31bc0u0425.jpg" alt="Zoom_singup" loading="lazy"></figure>
+<p>或者使用Google或Facebook账号一键登录，无需注册。登录后，需绑定手机号进行验证，详细操作见上方「老用户」说明。</p>
+<figure data-type="image" tabindex="4"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1gapir92kxqj31oi0rygs1.jpg" alt="Zoom_Signin" loading="lazy"></figure>
+</li>
+<li>
+<p>方式二：让不受中国区政策影响的对方(如学生)发起新会议，即学生打视频电话、老师接。详见下方「2.2 进入网络课堂」。<br>
+​</p>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="22-进入网络课堂">2.2 进入网络课堂</h3>
+<ol>
+<li>
+<p>上课前，将会议主持方将「会议链接」或「会议ID号」告知受邀方</p>
+<ul>
+<li>会议链接：如https://zoom.com.cn/j/<code>1234567890</code></li>
+<li>会议ID号：如<code>1234567890</code></li>
+</ul>
+</li>
+<li>
+<p>受邀方开启Zoom，输入「会议ID号」和姓名</p>
+<p><img src="https://i.loli.net/2019/12/10/mjzO8DKdAVcpayR.jpg" alt="https://i.loli.net/2019/12/10/mjzO8DKdAVcpayR.jpg" loading="lazy"><br>
+​</p>
+</li>
+</ol>
+<h3 id="23-屏幕共享">2.3 屏幕共享</h3>
+<ol>
+<li>
+<p>进入新会议，主持方或受邀方都可看到「共享屏幕」的选项。</p>
+<figure data-type="image" tabindex="5"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1gapipepb69j314u0n0wg7.jpg" alt="Zoom_Screen_Share_button" loading="lazy"></figure>
+</li>
+<li>
+<p>选择共享内容</p>
+<p>教师可选择共享整个屏幕或者只共享某个应用窗口。比如，王老师喜欢在上课时开启两个应用，一个是作为板书的PPT，另一个是自己的教案Word。王老师不想让学生看到教案，那么在屏幕共享时，可选择只共享PowerPoint。</p>
+<figure data-type="image" tabindex="6"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1gapiomtikjj314i0n20v3.jpg" alt="Zoom_Screen_Share" loading="lazy"></figure>
+</li>
+</ol>
+<h3 id="24-白板与标记笔">2.4 白板与标记笔</h3>
+<p>成功共享屏幕后，无论是使用手机还是电脑，主持方和受邀方都可进行实时标注。</p>
+<figure data-type="image" tabindex="7"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1gapinler1rj30ec02at8q.jpg" alt="Zoom_Maker" loading="lazy"></figure>
+<h3 id="25-视频录制与保存">2.5 视频录制与保存</h3>
+<p>🎥<a href="https://share.weiyun.com/5zCy5PC">点击观看视频Zoom_Record_Meeting</a></p>
+<p>进入会议后，可在屏幕下方操作栏看到「录像Record」按键。开始录像后，对方屏幕也会出现“正在录像”的提示字样。录制完成时会将文件自动保存在电脑文件夹(可在电脑设置中查看具体路径)。</p>
+<figure data-type="image" tabindex="8"><img src="https://i.loli.net/2019/12/14/fqVCYOTtSWi4Epg.jpg" alt="https://i.loli.net/2019/12/14/fqVCYOTtSWi4Epg.jpg" loading="lazy"></figure>
+<p>注意：需①成为会议主持人(即打电话的人)②在电脑上使用Zoom，可将「录像」自动保存在电脑中。如果该视频通话是学生打给老师的，可在接通后，让学生将老师设为主持人。方法如图所示，可保存截图发给学生。</p>
+<figure data-type="image" tabindex="9"><img src="https://i.loli.net/2019/12/14/u4CePcnzWOF9wqI.jpg" alt="https://i.loli.net/2019/12/14/u4CePcnzWOF9wqI.jpg" loading="lazy"></figure>
+<p>如需更多帮助，可 <a href="https://support.zoom.us/hc/en-us/articles/201362473-Local-Recording#h_3a53d485-a50f-4f6a-8019-533a0526fe47">点此查看</a> 官网详细的操作说明。<br>
+​</p>
+<h3 id="26-其它操作视频演示英文">2.6 其它操作视频演示(英文)</h3>
+<p>🎥<a href="https://share.weiyun.com/5Um8i97">点击观看视频Zoom_Demo</a><br>
+​</p>
+<hr>
+<p>​</p>
+<p>🔙返回首页</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[视频工具及使用]]></title>
         <id>https://livefunlearning.github.io/post/Video Apps</id>
         <link href="https://livefunlearning.github.io/post/Video Apps">
@@ -183,6 +291,85 @@ Photo Credit | zhuanlan.zhihu.com/p/87136395<br>
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Skype使用指南]]></title>
+        <id>https://livefunlearning.github.io/post/Skype Handbook</id>
+        <link href="https://livefunlearning.github.io/post/Skype Handbook">
+        </link>
+        <updated>2019-12-01T14:00:05.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>目录
+1. 下载安装
+2. 使用
+   2.1 注册
+   2.2 屏幕共享
+   2.3 背景虚化
+   2.4 视频录制与保存
+   2.5 自我测试
+   2.6 其它操作说明
+</code></pre>
+<h1 id="1-下载与安装">1. 下载与安装</h1>
+<p>电脑版：<a href="http://skype.gmw.cn/down/">http://skype.gmw.cn/down/</a></p>
+<p>苹果手机: <a href="https://share.weiyun.com/5gjxzj4">https://share.weiyun.com/5gjxzj4</a>   <a href="https://jingyan.baidu.com/article/6525d4b1aa3b98ac7d2e942d.html">点此查看</a> 如何安装非Apple Store的应用</p>
+<p>安卓手机:  <a href="https://mobile.softpedia.com/apk/skype/">https://mobile.softpedia.com/apk/skype/</a></p>
+<p>电脑浏览器内直接使用(无须安装)：<a href="https://web.skype.com/">https://web.skype.com/</a></p>
+<p><img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9rywgddbuj30yr0u01jc.jpg" alt="https://tva1.sinaimg.cn/large/006tNbRwly1g9rywgddbuj30yr0u01jc.jpg" loading="lazy"><br>
+​</p>
+<h1 id="2-使用">2. 使用</h1>
+<h3 id="21-注册">2.1 注册</h3>
+<p>LFL老师均为Outlook或Hotmail邮箱的注册用户。该邮箱地址既是Microsoft账户号，也是Skype登录名，因此，如之前未使用过Skype，可直接用Outlook或Hotmail邮箱地址登录；如之前注册过Skype普通账号(非邮箱地址)，可自行选择其中一个登录名。</p>
+<h3 id="22-屏幕共享">2.2 屏幕共享</h3>
+<p>教师可选择共享整个屏幕或者只共享某个应用窗口。比如，王老师喜欢在上课时开启两个应用，一个是作为板书的PPT，另一个是自己的教案Word。王老师不想让学生看到教案，那么在屏幕共享时，可选择只共享PowerPoint。</p>
+<ul>
+<li>
+<p>电脑端：右下角直接共享屏幕</p>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Skype_Share_Screen_button.jpg" alt="Skype_Share_Screen_button_PC" loading="lazy"></figure>
+</li>
+<li>
+<p>手机端：右下角「... 」→共享屏幕</p>
+<figure data-type="image" tabindex="2"><img src="https://i.loli.net/2019/12/09/3qUM6tXpPlVy7DZ.jpg" alt="https://i.loli.net/2019/12/09/3qUM6tXpPlVy7DZ.jpg" loading="lazy"></figure>
+<p>苹果手机：需结合自带的「录屏」功能。操作如下图。</p>
+<figure data-type="image" tabindex="3"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Skype_Share_Screen_button_ios.jpg" alt="Skype_Share_Screen_button_ios" loading="lazy"></figure>
+<p>Photo Credit | Skype.com</p>
+</li>
+</ul>
+<h3 id="23-背景虚化">2.3 背景虚化</h3>
+<p>方法：设置→音频和视频→背景虚化</p>
+<p>目前，该功能仅限于电脑版Skype，手机端不可“背景虚化”。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Skype_blur_desktop.jpg" alt="Skype_blur_desktop" loading="lazy"><br>
+​</p>
+<h3 id="24-视频录制与保存">2.4 视频录制与保存</h3>
+<ol>
+<li>
+<p>视频开始后，在手机端或电脑端点击右下角「... 」，即可看到「录制」选项。<a href="https://blogs.skype.com/news/2018/09/04/introducing-skype-call-recording-now-you-can-capture-save-and-share-special-moments/">点此查看官方英文图片版分部操作</a></p>
+<figure data-type="image" tabindex="4"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Skype_recording.jpeg" alt="Skype_recording" loading="lazy"></figure>
+</li>
+<li>
+<p>点击左上角停止录制。视频结束时，Skype将自动把录制文件(30日有效期)发送在对话框中，师生二人皆可下载。<br>
+​</p>
+</li>
+</ol>
+<h3 id="25-自我测试">2.5 自我测试</h3>
+<p>首次使用前，如何确定Skype是否连接无误、可正常通话？</p>
+<p>上课前需进行网络、耳机、话筒等各种测试，可能还得找人现场Skype一下才能确定。此时，如使用Skype自带无人测试会非常方便。</p>
+<ol>
+<li>
+<p>打开Skype，搜索 <code>echo123</code></p>
+</li>
+<li>
+<p>点击「开始通话」</p>
+</li>
+<li>
+<p>按照语音提示操作即可。如希望听到中文提示，测试前将语言设置成中文。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Skype_Test.jpg" alt="Skype_Test" loading="lazy"><br>
+​</p>
+</li>
+</ol>
+<h3 id="26-其它操作说明">2.6 其它操作说明</h3>
+<p><a href="http://skype.gmw.cn/help/support.html">http://skype.gmw.cn/help/support.htm</a><br>
+​</p>
+<p>🔙返回首页</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Teacher Onboarding | 熟悉你的工作及与你一起并肩的伙伴]]></title>
         <id>https://livefunlearning.github.io/post/Teacher Onboarding</id>
         <link href="https://livefunlearning.github.io/post/Teacher Onboarding">
@@ -251,26 +438,26 @@ Photo Credit | zhuanlan.zhihu.com/p/87136395<br>
 <li>
 <p>新进教师任务</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6919819"><label class="task-list-item-label" for="task-item-6919819"> 了解你的“学生”(由指定老师扮演)，如姓名、兴趣爱好、本学期学习中文的目标等。</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1743849"><label class="task-list-item-label" for="task-item-1743849"> 引导“学生”发散思维，而非一味地机械重复。</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5394331"><label class="task-list-item-label" for="task-item-5394331"> 简单、清晰、有条理地展示出每一个教学环节。</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5654980"><label class="task-list-item-label" for="task-item-5654980"> 熟练地展示视频教学工具的基本操作，包括「屏幕共享」功能、录像或录音、视频时发送并查看消息等。</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2114713"><label class="task-list-item-label" for="task-item-2114713"> 了解你的“学生”(由指定老师扮演)，如姓名、兴趣爱好、本学期学习中文的目标等。</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2179712"><label class="task-list-item-label" for="task-item-2179712"> 引导“学生”发散思维，而非一味地机械重复。</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2258651"><label class="task-list-item-label" for="task-item-2258651"> 简单、清晰、有条理地展示出每一个教学环节。</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4702196"><label class="task-list-item-label" for="task-item-4702196"> 熟练地展示视频教学工具的基本操作，包括「屏幕共享」功能、录像或录音、视频时发送并查看消息等。</label></li>
 </ul>
 </li>
 <li>
 <p>指定教师任务</p>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1709531"><label class="task-list-item-label" for="task-item-1709531"> 新老师询问个人信息的方式，是否会让未来的学生感到不快，甚至有打探隐私之嫌？</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2252339"><label class="task-list-item-label" for="task-item-2252339"> 新老师询问个人信息的方式，是否会让未来的学生感到不快，甚至有打探隐私之嫌？</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6998804"><label class="task-list-item-label" for="task-item-6998804"> 新老师营造出的网络课堂氛围，是否会让学生有说话欲？是否会让学生意识到在以后表达时，需注意自己某些字词的发音或用法？</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4198264"><label class="task-list-item-label" for="task-item-4198264"> 新老师营造出的网络课堂氛围，是否会让学生有说话欲？是否会让学生意识到在以后表达时，需注意自己某些字词的发音或用法？</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2484942"><label class="task-list-item-label" for="task-item-2484942"> 新老师所展示的首节课，是否会让学生时不时有“不知道此刻应该做什么“的感觉？</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1231630"><label class="task-list-item-label" for="task-item-1231630"> 新老师所展示的首节课，是否会让学生时不时有“不知道此刻应该做什么“的感觉？</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6591183"><label class="task-list-item-label" for="task-item-6591183"> 新老师对视频教学工具的使用、对视频背景环境的设置，是否会让学生感到老师没有提前做好准备？或是感到难以保证这节课的学习效果？</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6946186"><label class="task-list-item-label" for="task-item-6946186"> 新老师对视频教学工具的使用、对视频背景环境的设置，是否会让学生感到老师没有提前做好准备？或是感到难以保证这节课的学习效果？</label></p>
 <p>​</p>
 </li>
 </ul>
