@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-01-08T15:29:40.731Z</updated>
+    <updated>2020-01-08T15:30:03.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -438,26 +438,26 @@ Photo Credit | zhuanlan.zhihu.com/p/87136395<br>
 <li>
 <p>新进教师任务</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3546943"><label class="task-list-item-label" for="task-item-3546943"> 了解你的“学生”(由指定老师扮演)，如姓名、兴趣爱好、本学期学习中文的目标等。</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8634466"><label class="task-list-item-label" for="task-item-8634466"> 引导“学生”发散思维，而非一味地机械重复。</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7469594"><label class="task-list-item-label" for="task-item-7469594"> 简单、清晰、有条理地展示出每一个教学环节。</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9068869"><label class="task-list-item-label" for="task-item-9068869"> 熟练地展示视频教学工具的基本操作，包括「屏幕共享」功能、录像或录音、视频时发送并查看消息等。</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-645590"><label class="task-list-item-label" for="task-item-645590"> 了解你的“学生”(由指定老师扮演)，如姓名、兴趣爱好、本学期学习中文的目标等。</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3850107"><label class="task-list-item-label" for="task-item-3850107"> 引导“学生”发散思维，而非一味地机械重复。</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5104665"><label class="task-list-item-label" for="task-item-5104665"> 简单、清晰、有条理地展示出每一个教学环节。</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8383301"><label class="task-list-item-label" for="task-item-8383301"> 熟练地展示视频教学工具的基本操作，包括「屏幕共享」功能、录像或录音、视频时发送并查看消息等。</label></li>
 </ul>
 </li>
 <li>
 <p>指定教师任务</p>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6218315"><label class="task-list-item-label" for="task-item-6218315"> 新老师询问个人信息的方式，是否会让未来的学生感到不快，甚至有打探隐私之嫌？</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1244482"><label class="task-list-item-label" for="task-item-1244482"> 新老师询问个人信息的方式，是否会让未来的学生感到不快，甚至有打探隐私之嫌？</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4294519"><label class="task-list-item-label" for="task-item-4294519"> 新老师营造出的网络课堂氛围，是否会让学生有说话欲？是否会让学生意识到在以后表达时，需注意自己某些字词的发音或用法？</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2373061"><label class="task-list-item-label" for="task-item-2373061"> 新老师营造出的网络课堂氛围，是否会让学生有说话欲？是否会让学生意识到在以后表达时，需注意自己某些字词的发音或用法？</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7095949"><label class="task-list-item-label" for="task-item-7095949"> 新老师所展示的首节课，是否会让学生时不时有“不知道此刻应该做什么“的感觉？</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-751170"><label class="task-list-item-label" for="task-item-751170"> 新老师所展示的首节课，是否会让学生时不时有“不知道此刻应该做什么“的感觉？</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4835735"><label class="task-list-item-label" for="task-item-4835735"> 新老师对视频教学工具的使用、对视频背景环境的设置，是否会让学生感到老师没有提前做好准备？或是感到难以保证这节课的学习效果？</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6695113"><label class="task-list-item-label" for="task-item-6695113"> 新老师对视频教学工具的使用、对视频背景环境的设置，是否会让学生感到老师没有提前做好准备？或是感到难以保证这节课的学习效果？</label></p>
 <p>​</p>
 </li>
 </ul>
