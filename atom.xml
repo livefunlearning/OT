@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-01-09T23:50:03.029Z</updated>
+    <updated>2020-01-09T23:53:28.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -337,6 +337,7 @@ Best,
 </ol>
 <figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="" loading="lazy"></figure>
 <h1 id="03-一帮一">03 一帮一</h1>
+<hr>
 <p>所有老师  ·  Deadline: 本月31日</p>
 <p>根据「 阶段02 」所准备的内容，新老师在Zoom或Skype上给指定老师试讲。模拟10分钟首节课的教学，包括warm-up、1个语法操练、1个课堂活动。</p>
 <p><a href="https://share.weiyun.com/5Trh0O5">中文教师一帮一：在线模拟教学分组</a></p>
@@ -432,10 +433,10 @@ Best,
 <hr>
 <ul>
 <li>课堂教学录像及录音参考  <a href="https://share.weiyun.com/5LEii63">点此查看或见微云「学期培训」</a></li>
-<li>中美时差图示</li>
+<li>中美时差图示<br>
+<img src="https://tva1.sinaimg.cn/large/006tNbRwgy1gapdskh1zmj31hc0u0gqk.jpg" alt="中美时差" loading="lazy"></li>
 </ul>
-<figure data-type="image" tabindex="9"><img src="https://tva1.sinaimg.cn/large/006tNbRwgy1gapdskh1zmj31hc0u0gqk.jpg" alt="中美时差" loading="lazy"></figure>
-<figure data-type="image" tabindex="10"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1gaq68a2xlkj30qg01qjr6.jpg" alt="IMG_0485" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1gaq68a2xlkj30qg01qjr6.jpg" alt="IMG_0485" loading="lazy"></figure>
 <p>🔙<a href="https://livefunlearning.github.io/">返回首页</a></p>
 ]]></content>
     </entry>
