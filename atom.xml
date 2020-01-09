@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-01-09T04:04:59.864Z</updated>
+    <updated>2020-01-09T12:14:03.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -25,7 +25,7 @@
 <li>Email：参考Welcome Email示例 - <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=1&amp;sn=9815fb077dd6c92818f410c2c3ae5907&amp;chksm=3e8e281d09f9a10b6efe61d081762f7d1acc3f3c6d07b339e618b8679ee1a86ba727f7ca1bcd#rd">密歇根</a> | <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=2&amp;sn=db5c015c385f63dcb6b4fddfb5d1cd3f&amp;chksm=3e8e281d09f9a10bd451d477fe085b3fc0f10501cb12eb2bcedcb786d4c2b94fec913031a8cf#rd">布兰戴斯</a> | <a href="http://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=3&amp;sn=e5d5de39fbe0e81bfc5124d82af5752d&amp;chksm=3e8e281d09f9a10b1913abd65410963cb5d8671f1431e33cd56afdf1ca49680657a4e8ab2356#rd">诺丁汉</a> | <a href="https://t.1yb.co/3F3">纽大</a></li>
 <li>微信：如学生有微信，可打招呼、发送Welcome Email截图；如学生无微信或微信号有误，可在邮件中询问是否愿意使用微信，并提供微信注册、认证的方式及其相关帮助</li>
 <li>(如有)Skype：教师可用个人Hotmail或Outlook地址登录Skype，给学生打招呼、发送Welcome Email截图作为提醒</li>
-<li>(如有)非国内社交网：学生的注册表如有social media信息，教师可利用「科学上网工具」进一步了解学生并与其建立联系。「科学上网工具」是什么、怎么用？请百度查询；推荐的工具见“LFL云盘/技术支持”。</li>
+<li>(如有)非国内社交网：学生的注册表如有social media信息，教师可利用「科学上网工具」进一步了解学生并与其建立联系。「科学上网工具」是什么、怎么用？请百度查询；推荐的工具见“LFL云盘/技术支持”</li>
 </ol>
 <p>​</p>
 <h2 id="step-2-联络状态"><strong>Step 2  联络状态</strong></h2>
@@ -220,7 +220,7 @@ Best,
 </code></pre>
 <h1 id="1-lfl网络教学课堂需使用的功能">1. LFL网络教学课堂需使用的功能</h1>
 <p>恐怕现在每一人都在主动或被动地适应网络课堂，探索这种新的教学形式带来的变化，包括你的学生。如果你之前对网络实时教学课堂不太熟悉，或者对Technology不太感冒，那么请利用这个机会掌握LFL网络课堂所需的Tech技能。在正式教学时，使用网课工具的不只是教师，还有学生，只有教师对这些网课工具足够熟悉，才能给学生提供相应的指导帮助。</p>
-<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/number1.JPG" alt="number1" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1gaqkciooojj30vd03kdfn.jpg" alt="number01" loading="lazy"></figure>
 <h2 id="视频背景网课的教室">视频背景：网课的教室</h2>
 <p>一个星期二的早上，10点57分，你走进教室，看到白板上布满密密麻麻文字，一个未喝完的矿泉水摆在讲台上，白板笔和笔盖横七竖八地散落在一旁。你静静地走向电脑，用力拔出一支抢占接口的U盘，换上自己的。几秒后，屏幕弹出一个 “发现未知设备” 的提示。你转过身，看到快填满的座位，于是拿出讲义递给学生。再次转身，移动光标，绕过屏幕中间大大的“查杀”提醒，奋力地点击“打开U盘” 。此时，你抬眼看到墙上的分针几乎与&quot;5&quot;重合。</p>
 <p>一个星期二的早上，10点57分，你走进书房，把一杯热气袅袅的伯爵茶放在桌上，打开电脑、戴上耳机、开启视频，简单测试一下话筒和耳机，轻轻点开桌面上的PPT，从容地浏览一遍。此时，你抬眼看到屏幕一角显示着“10:59:03”。</p>
@@ -230,7 +230,7 @@ Best,
 <p>除此以外，还可借助现代视频工具的“背景虚化(Skype)”或“虚拟背景(Zoom)”的方式。从此，不用担心室友突然入镜的尴尬，或是找不到合适的视频环境给视频课堂增加视觉干扰因素。</p>
 <p><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/SkypeBlureBackground.gif" alt="SkypeBlureBackground" loading="lazy"><br>
 ▲ Photo Credit |  Skype.com</p>
-<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/number2.JPG" alt="number2" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1gaqkag56fbj30vd03kmwz.jpg" alt="number02" loading="lazy"></figure>
 <h2 id="屏幕共享网课教师的板书与白板">屏幕共享：网课教师的板书与白板</h2>
 <p>正如Live &amp; Fun Learning的名字，LFL的网络课堂是“live”实时教学。师生二人可在屏幕两端发送文字或进行语音通话、视频通话，甚至是未来的VR通话。由于视频通话易于从视觉、听觉捕捉到对方的细小反应，因此在视频声画质量得以保证的前提下，我们提倡使用视频教学。</p>
 <p>面对镜头不自在或是有恐惧感？这很正常，大多数人跟你一样，包括外国人，英文有一个词“Camera Shy”就是专门用来形容面对镜头时表现出不自然的情况。然而，作为课堂指挥的教师更应勇敢克服这一心理障碍，才能起到鼓励学生的作用。怎么办？除了找到你的nervous tics再加强练习外，还可借助视频工具的“屏幕共享”功能，悄悄地转移师生二人的视线。而屏幕共享的好处远不止于此。</p>
@@ -346,24 +346,24 @@ Best,
 <p><a href="https://share.weiyun.com/5Trh0O5">中文教师一帮一：在线模拟教学分组</a></p>
 <h3 id="新进教师任务">新进教师任务</h3>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1131576"><label class="task-list-item-label" for="task-item-1131576"> 了解你的“学生”(由指定老师扮演)，如姓名、兴趣爱好、本学期学习中文的目标等。</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1769974"><label class="task-list-item-label" for="task-item-1769974"> 引导“学生”发散思维，而非一味地机械重复。</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5219395"><label class="task-list-item-label" for="task-item-5219395"> 简单、清晰、有条理地展示出每一个教学环节。</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3013681"><label class="task-list-item-label" for="task-item-3013681"> 熟练地展示视频教学工具的基本操作，包括「屏幕共享」功能、录像或录音、视频时发送并查看消息等。</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8649590"><label class="task-list-item-label" for="task-item-8649590"> 了解你的“学生”(由指定老师扮演)，如姓名、兴趣爱好、本学期学习中文的目标等。</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1119840"><label class="task-list-item-label" for="task-item-1119840"> 引导“学生”发散思维，而非一味地机械重复。</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7849061"><label class="task-list-item-label" for="task-item-7849061"> 简单、清晰、有条理地展示出每一个教学环节。</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3693289"><label class="task-list-item-label" for="task-item-3693289"> 熟练地展示视频教学工具的基本操作，包括「屏幕共享」功能、录像或录音、视频时发送并查看消息等。</label></li>
 </ul>
 <h3 id="指定教师任务">指定教师任务</h3>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6117455"><label class="task-list-item-label" for="task-item-6117455"> 新老师询问个人信息的方式，是否会让未来的学生感到不快，甚至有打探隐私之嫌？</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3330603"><label class="task-list-item-label" for="task-item-3330603"> 新老师询问个人信息的方式，是否会让未来的学生感到不快，甚至有打探隐私之嫌？</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5963276"><label class="task-list-item-label" for="task-item-5963276"> 新老师营造出的网络课堂氛围，是否会让学生有说话欲？是否会让学生意识到在以后表达时，需注意自己某些字词的发音或用法？</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4703387"><label class="task-list-item-label" for="task-item-4703387"> 新老师营造出的网络课堂氛围，是否会让学生有说话欲？是否会让学生意识到在以后表达时，需注意自己某些字词的发音或用法？</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4088452"><label class="task-list-item-label" for="task-item-4088452"> 新老师所展示的首节课，是否会让学生时不时有“不知道此刻应该做什么“的感觉？</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9387335"><label class="task-list-item-label" for="task-item-9387335"> 新老师所展示的首节课，是否会让学生时不时有“不知道此刻应该做什么“的感觉？</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8880480"><label class="task-list-item-label" for="task-item-8880480"> 新老师对视频教学工具的使用、对视频背景环境的设置，是否会让学生感到老师没有提前做好准备？或是感到难以保证这节课的学习效果？</label></p>
+<p><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2934323"><label class="task-list-item-label" for="task-item-2934323"> 新老师对视频教学工具的使用、对视频背景环境的设置，是否会让学生感到老师没有提前做好准备？或是感到难以保证这节课的学习效果？</label></p>
 </li>
 </ul>
 <h1 id="04-个人信息与数据">04 个人信息与数据</h1>
