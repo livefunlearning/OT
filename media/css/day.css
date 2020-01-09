@@ -9,7 +9,7 @@ body {
 article .entry-title > a,
 .slide-content .entry-title > a {
     color: #333;
- 
+
 }
 article a:hover,
 .entry-meta a {
@@ -56,12 +56,12 @@ article a:hover,
     border: 1px solid #eee;
     box-shadow: 0 0 30px rgba(200, 200, 200, 0.25);
 
-  }  
+  }
   .posttou{
    box-shadow: 0 0 30px #eee;
-} 
+}
 #content article .song  img{
-    box-shadow: 0 0 30px #eee;
+    box-shadow: 0 0 30px #fff;
   }
   #archives .archives a:hover {
 	background: #eee
@@ -72,7 +72,7 @@ article a:hover,
 .hentry h1 a::before {
     background-color: #337ab7;
 
-  } 
+  }
   .author-link {
     color: #333;
   }
@@ -205,13 +205,13 @@ article a:hover,
     color: #F55852;
  }
 
- .valine .vinputs-area .textarea-wrapper textarea { 
+ .valine .vinputs-area .textarea-wrapper textarea {
 color: #4b5b62;
 background: #fff;
 }
-.valine .vinputs-area .textarea-wrapper 
+.valine .vinputs-area .textarea-wrapper
 {color: #4b5b62;
-  background: #fff; 
+  background: #fff;
 }
 .valine .vinputs-area .auth-section .input-wrapper input {
     color: #4b5b62;
@@ -230,7 +230,7 @@ background: #fff;
       background-color: #FFFFFF;
   }
   .valine .vlist .vcard .vcomment-body .vat:hover {
-    color: #337ab7 !important; 
+    color: #337ab7 !important;
   }
   .valine .vlist .vcard .vcomment-body .vat {
     float: right;
@@ -241,13 +241,13 @@ background: #fff;
     cursor: pointer;
      word-break: keep-all;
       white-space: nowrap;
-       text-transform: uppercase; 
-      }        
- 
+       text-transform: uppercase;
+      }
+
   .valine .vlist .vcard .vcomment-body .text-wrapper .vcomment.expand:after {
-    
+
     background: rgba(255, 255, 255, 0.9);
-    }   
+    }
      .valine .vlist .vcard .vcomment-body .text-wrapper .vcomment.expand:before {  background: linear-gradient(180deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.8)); }
     .fadeout {
       opacity: 0;
@@ -285,7 +285,7 @@ background: #fff;
       width: 64px;
       height: 64px;
   }
-  
+
   .songjingge{
     width: 80px;
     height: 40px;
@@ -353,7 +353,7 @@ blockquote:before{
   color: #337ab7;
   font-size: 30px;
   line-height: 1;
- 
+
 }
 
 blockquote p {
