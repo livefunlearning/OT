@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-01-10T17:02:17.827Z</updated>
+    <updated>2020-01-10T17:12:10.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -124,8 +124,8 @@ Best,
         </link>
         <updated>2019-12-01T14:10:46.000Z</updated>
         <content type="html"><![CDATA[<hr>
-<p>在LFL，知识与经验是能够共享的。为了保证贡献者与欣赏者都能有最好的使用体验，我们在教学文书的格式与风格上制定了一些规范。这些规范并非强制规定，但一份语句通顺、逻辑严谨、排版美观的教学资料不仅能够提升使用者的阅读体验，更能提高工作效率，在上课时快速定位知识点或截图复制段落发给学生。</p>
-<p>本指南参考了LFL以往众多优秀教学资料的风格，并将继续收集更多优秀建议。如在使用过程中有任何主意或建议，欢迎随时告诉我们。</p>
+<p>在LFL，知识与经验是能够共享的。为了保证贡献者与阅读者都能有最好的使用体验，我们在教学文书的格式与风格上制定了一些规范。这些规范并非强制规定，但一份语句通顺、逻辑严谨、排版清晰的教学资料不仅能够提升使用者的阅读体验，更能提高工作效率，在上课时快速定位知识点或截图复制段落发给学生。同时，除板书外，给学生发送的一切资料或信息(如邮件)，都可参考这些规范。</p>
+<p>本《指南》参考了LFL以往众多优秀教学资料的风格，并将继续收集更多优秀建议。如在教学过程中有任何想法或建议，请分享给我们。</p>
 <p>​</p>
 <h2 id="文档类型">文档类型</h2>
 <ol>
@@ -144,7 +144,7 @@ Best,
 <ol>
 <li>
 <p>字体</p>
-<p>中文推荐：宋体(一般情况)、楷体(适合零基础学生；手写体，易于临摹正确笔画)</p>
+<p>中文推荐：黑体(一般情况)、楷体(适合零基础学生；手写体，易于临摹正确笔画)；不推荐宋体</p>
 <p>英文推荐：Times New Roman 或 Charter</p>
 <figure data-type="image" tabindex="1"><img src="https://tva1.sinaimg.cn/large/006tNbRwgy1gapdkklxkvj30nw08rjtm.jpg" alt="宋体vs楷体" loading="lazy"></figure>
 </li>
