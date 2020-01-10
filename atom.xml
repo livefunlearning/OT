@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-01-10T17:01:16.995Z</updated>
+    <updated>2020-01-10T17:02:17.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -268,7 +268,7 @@ Best,
 <figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Dots-3.png" alt="Dots_3" loading="lazy"></figure>
 <img src="https://tva1.sinaimg.cn/large/006tNbRwly1garf41awxmj314t04lt8v.jpg" alt="RelatedReads" style="zoom:200%;" />
 <blockquote>
-<p><a href="https://livefunlearning.github.io/post/Skype_Handbook/">Skype使用指南</a>测试为奇偶if见哦IH否认html里使用select控件，非常容易就能实现下拉菜单的效果。但是由于select控件只能更改长度，不能更改高度和颜色等样式，因此在网页设计中有时候显得与整体布局搭配不太美观。正因为这个原因，div+css实现的下拉菜单便大量被网页设计师使用。通过div+css，可以随心所欲的实现自己想要的样式效果，使得下拉菜单与网页整体布局搭配的更美观和谐。</p>
+<p><a href="https://livefunlearning.github.io/post/Skype_Handbook/">Skype使用指南</a></p>
 </blockquote>
 <blockquote>
 <p><a href="https://livefunlearning.github.io/post/Zoom_Handbook/">Zoom使用指南</a></p>
