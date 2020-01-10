@@ -1396,7 +1396,7 @@ a.toc-link {
   background-color: #54BC4B;
 }
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "Optima-Regular", sans-serif;
   font-size: 13px;
   line-height: 25px;
 }
@@ -1480,7 +1480,7 @@ header {
   background-size: cover;
 }
 .site-header h1 {
-  font-family: 'Dancing Script', 'Avenir Light', sans-serif;
+  font-family: 'Dancing Script', 'futura', sans-serif;
   font-size: 100px;
 }
 .site-title {

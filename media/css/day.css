@@ -1,6 +1,6 @@
 body {
     background-color: #ffffff;
-    color: #333;
+    color: #000000;
 }
 #content article {
     background: #ffffff;
@@ -334,15 +334,13 @@ background: #fff;
 }
 blockquote {
   position: center;
-  padding: 10px 60px 10px 60px;
+  padding: 10px 20px 10px 20px;
   box-sizing: border-box;
   font-style: normal;
   background: #f8f8f8;
   color: #000000;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0);
 }
-
-
 
 blockquote p {
   padding: 0;
