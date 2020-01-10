@@ -333,7 +333,7 @@ background: #fff;
     color: #666;
 }
 blockquote {
-  position: center;
+  position: relative;
   padding: 10px 30px 10px 30px;
   box-sizing: border-box;
   font-style: normal;
@@ -350,7 +350,7 @@ blockquote p {
 
 blockquote cite {
   display: block;
-  text-align: relative;
+  text-align: absolute;
   color: #888888;
   font-size: 0.9em;
 }
