@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-01-10T11:47:30.584Z</updated>
+    <updated>2020-01-10T11:49:48.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -403,22 +403,20 @@ Best,
 <p><strong>开学安排</strong></p>
 <p>LFL合作大学有不同的学期起始时间，我们会在首个开课学校的 Registration 期将教师预安排至不同的校群，每个校群下设若干组群，以轮流交替的方式进行集体备课、共享教学资料。教师将分别在各校的「student-tutor matching 」期收到学生的背景信息，并联系学生、准备上课。届时我们将做详细说明。</p>
 <p><strong>查看各校本学期时间安排</strong></p>
-<blockquote>
-<p><a href="https://www.livefunlearning.com/umich-1-on-1">密歇根</a></p>
-</blockquote>
-<figure data-type="image" tabindex="5"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9n2ido3t4j30u00vsgv0.jpg" alt="https://tva1.sinaimg.cn/large/006tNbRwly1g9n2ido3t4j30u00vsgv0.jpg" loading="lazy"></figure>
-<blockquote>
-<p><a href="https://www.livefunlearning.com/unmc-1-on-1">诺丁汉</a></p>
-</blockquote>
-<figure data-type="image" tabindex="6"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1gar4zjn0o5j30zq0u0tdu.jpg" alt="https://tva1.sinaimg.cn/large/006tNbRwly1g9n2ie1v81j30zq0u011i.jpg" loading="lazy"></figure>
-<blockquote>
-<p><a href="https://www.livefunlearning.com/brandeis-1-on-1">布兰戴斯</a></p>
-</blockquote>
-<img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9n2idwilwj30ve0u0thy.jpg" alt="" style="zoom:80%;" />
+<ul>
+<li><a href="https://www.livefunlearning.com/umich-1-on-1">密歇根</a><br>
+<img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9n2ido3t4j30u00vsgv0.jpg" alt="https://tva1.sinaimg.cn/large/006tNbRwly1g9n2ido3t4j30u00vsgv0.jpg" loading="lazy"></li>
+</ul>
+<p>-<a href="https://www.livefunlearning.com/unmc-1-on-1">诺丁汉</a><br>
+<img src="https://tva1.sinaimg.cn/large/006tNbRwly1gar4zjn0o5j30zq0u0tdu.jpg" alt="https://tva1.sinaimg.cn/large/006tNbRwly1g9n2ie1v81j30zq0u011i.jpg" loading="lazy"></p>
+<ul>
+<li><a href="https://www.livefunlearning.com/brandeis-1-on-1">布兰戴斯</a><br>
+<a href="https://tva1.sinaimg.cn/large/006tNbRwly1g9n2idwilwj30ve0u0thy.jpg"></a></li>
+</ul>
 <p>​</p>
 <p><strong>课时</strong></p>
 <p>一般来说，每位老师每周的教学不超过一小时，学生不超过2名。若希望增加课时或教学人数，请填 <a href="https://www.wenjuan.net/s/3a6fUr/">此表</a> 提出申请。</p>
-<figure data-type="image" tabindex="7"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="" loading="lazy"></figure>
 <h1 id="06-网络教学与工具使用">06 网络教学与工具使用</h1>
 <hr>
 <p><strong>1. 工具</strong></p>
@@ -451,7 +449,7 @@ Best,
 <p>视频工具：Skype、Zoom <a href="https://livefunlearning.github.io/post/Video%20Apps/">进入使用介绍</a></p>
 </li>
 </ul>
-<figure data-type="image" tabindex="8"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="" loading="lazy"></figure>
 <h1 id="07-课堂示范与时差">07 课堂示范与时差</h1>
 <hr>
 <ul>
@@ -459,7 +457,7 @@ Best,
 <li>中美时差图示</li>
 </ul>
 <img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9ly261jrmj31hc0u0gqk.jpg" alt="中美时差" style="zoom:200%;" />
-<figure data-type="image" tabindex="9"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Dots-3.png" alt="分隔线" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Dots-3.png" alt="分隔线" loading="lazy"></figure>
 <p>🔙<a href="https://livefunlearning.github.io/">返回首页</a></p>
 ]]></content>
     </entry>
