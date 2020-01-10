@@ -60,7 +60,7 @@ article a:hover,
   .posttou{
    box-shadow: 0 0 30px #eee;
 }
-#content article .song  img{
+#content article .Optima-Regular  img{
     box-shadow: 0 0 30px #fff;
   }
   #archives .archives a:hover {
@@ -70,7 +70,7 @@ article a:hover,
 	background: #f0f0f0
 }
 .hentry h1 a::before {
-    background-color: #337ab7;
+    background-color: #5574BE;
 
   }
   .author-link {
@@ -145,7 +145,7 @@ article a:hover,
   .hljs-symbol .hljs-string,
   .hljs-tag .hljs-title,
   .hljs-value,
-  .alias .hljs-keyword:first-child,
+  .alias .hljs-keyword:,
   .css .hljs-tag,
   .css .unit,
   .css .hljs-important {
