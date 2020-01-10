@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-01-10T09:10:28.312Z</updated>
+    <updated>2020-01-10T09:12:36.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -276,7 +276,7 @@ Best,
 <img src="https://i.loli.net/2019/12/09/F6edTpUDtof3AlV.jpg" alt="https://i.loli.net/2019/12/09/F6edTpUDtof3AlV.jpg" loading="lazy"></p>
 <p>Zoom操作界面<br>
 <img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Zoom_Panel.jpg" alt="Zoom_Panel" loading="lazy"></p>
-<figure data-type="image" tabindex="3"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1garf41awxmj314t04lt8v.jpg" alt="Related Reads" loading="lazy"></figure>
+<img src="https://tva1.sinaimg.cn/large/006tNbRwly1garf41awxmj314t04lt8v.jpg" alt="RelatedReads" style="zoom:200%;" />
 <blockquote>
 <p>测试颜色<br>
 <a href="https://livefunlearning.github.io/post/Skype_Handbook/">Skype使用指南</a></p>
@@ -287,7 +287,7 @@ Best,
 <blockquote>
 <p>🔙<a href="https://livefunlearning.github.io/">返回首页</a></p>
 </blockquote>
-<figure data-type="image" tabindex="4"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Dots-3.png" alt="Dots_3" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Dots-3.png" alt="Dots_3" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
