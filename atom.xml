@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-01-10T05:41:36.544Z</updated>
+    <updated>2020-01-10T05:59:11.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -52,7 +52,6 @@
 <img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/03_futura_bold.PNG" alt="03" loading="lazy"></p>
 <h2 id="step-3-pre-tutoring聊天"><strong>Step 3  Pre-tutoring聊天</strong></h2>
 <p>Pre-tutoring是指第一次上课前或上课时，抽5分钟时间，以轻松的方式跟学生“聊天”，实则为了准确定位学生的中文水平、学习特点、兴趣爱好等。如何聊？请参看《LFL Teacher Handbook》介绍。</p>
-<p>​</p>
 <figure data-type="image" tabindex="3"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/04_futura_bold.PNG" alt="04" loading="lazy"></figure>
 <h2 id="step-4-备课"><strong>Step 4  备课</strong></h2>
 <p>第一周使用的教案：需独自准备或组内自行讨论——注册期常有变动，LFL不组织集体备课。根据学生所在大学的课程进度表(见云盘)准备已学内容。​</p>
@@ -244,8 +243,8 @@ Best,
 <p>正如Live &amp; Fun Learning的名字，LFL的网络课堂是“live”实时教学。师生二人可在屏幕两端发送文字或进行语音通话、视频通话，甚至是未来的VR通话。由于视频通话易于从视觉、听觉捕捉到对方的细小反应，因此在视频声画质量得以保证的前提下，我们提倡使用视频教学。</p>
 <p>面对镜头不自在或是有恐惧感？这很正常，大多数人跟你一样，包括外国人，英文有一个词“Camera Shy”就是专门用来形容面对镜头时表现出不自然的情况。然而，作为课堂指挥的教师更应勇敢克服这一心理障碍，才能起到鼓励学生的作用。怎么办？除了找到你的nervous tics再加强练习外，还可借助视频工具的“屏幕共享”功能，悄悄地转移师生二人的视线。而屏幕共享的好处远不止于此。</p>
 <p>在教室上课时，教师常用投影或教室一体机播放PPT，并通过控制PPT的播放速度来掌握教学进度。「屏幕共享」就是网络课堂的投影或一体机。在视频通话期间，教师开启「屏幕共享」后，自己电脑或手机桌面上的PPT将即刻呈现在学生的屏幕上，并能实现同步翻页。</p>
-<p>更棒的是，「屏幕共享」不只是“投影或一体机”，还可成为师生的“黑板”。备课时，特意在每张PPT上留出空白，「屏幕共享」期间开启“PPT演示”。此时，教师写写画画的每一笔都会实时呈现在学生眼前。</p>
-<figure data-type="image" tabindex="3"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Zoom_Setup.jpg" alt="Zoom_Setup" loading="lazy"></figure>
+<p>更棒的是，「屏幕共享」不只是“投影或一体机”，还可成为师生的“黑板”。备课时，特意在每张PPT上留出空白，「屏幕共享」期间开启“PPT演示”。此时，教师写写画画的每一笔都会实时呈现在学生眼前。<br>
+<img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Zoom_Setup.jpg" alt="Zoom_Setup" loading="lazy"></p>
 <p>倘若手边恰好有一支好用的触控笔，放平屏幕(或配合智能手写板)，从此不必像在教室那样悬臂在白板上写字。万一你还有一块额外的屏幕，万一还是一个高清曲面显示屏或是Mac+iPad组合。Win开启双屏幕扩展，Mac+iPad组合则打开随航(Sidecar)。演示PPT或Keynote的时候，一块屏幕看当前这张幻灯片，另一块屏幕看下一张幻灯片，你甚至还能“偷偷”打开词典查个突然想不起来的英文词，然后从容淡定地告诉学生。至此，你会发现你已经不想再去教室上课了。</p>
 <p><img src="https://i.loli.net/2019/12/07/RvCT9qezF4y1XI5.gif" alt="Sidecar_Demo" loading="lazy"><br>
 ▲ Photo Credit | zhuanlan.zhihu.com/p/87136395<br>
@@ -258,7 +257,7 @@ Best,
 <p><a href="https://livefunlearning.github.io/post/Zoom_Handbook/">Zoom使用指南</a><br>
 ​</p>
 <h1 id="3-屏幕的高阶用法双屏扩展操作说明">3. 屏幕的高阶用法：双屏扩展操作说明</h1>
-<h3 id="高阶用法一-连接两块屏幕">高阶用法一 · 连接两块屏幕</h3>
+<h3 id="步骤一-连接两块屏幕">步骤一 | 连接两块屏幕</h3>
 <ul>
 <li>
 <p>Win：有线连接两块屏幕，后开启双屏幕扩展。<a href="https://baijiahao.baidu.com/s?id=1598789347553428240&amp;wfr=spider&amp;for=pc">点此查看详细操作</a></p>
@@ -269,15 +268,23 @@ Best,
 </ul>
 <p><img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9qiae79j9j318z0u0qjy.jpg" alt="https://tva1.sinaimg.cn/large/006tNbRwly1g9qiae79j9j318z0u0qjy.jpg" loading="lazy"><br>
 ​</p>
-<h3 id="高阶用法二-一块屏幕共享一块屏幕自享">高阶用法二 · 一块屏幕共享，一块屏幕自享</h3>
+<h3 id="步骤二-一块屏幕共享一块屏幕自享">步骤二 | 一块屏幕共享，一块屏幕自享</h3>
 <p>开启视频后，点击「屏幕共享」，随后，Skype和Zoom都会出现选择屏幕的提示。</p>
 <p>Skype操作界面<br>
 <img src="https://i.loli.net/2019/12/09/F6edTpUDtof3AlV.jpg" alt="https://i.loli.net/2019/12/09/F6edTpUDtof3AlV.jpg" loading="lazy"></p>
 <p>Zoom操作界面<br>
 <img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Zoom_Panel.jpg" alt="Zoom_Panel" loading="lazy"></p>
-<figure data-type="image" tabindex="4"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Dots-3.png" alt="Dots_3" loading="lazy"></figure>
-<figure data-type="image" tabindex="5"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1garehmg6dej314t04l74c.jpg" alt="Related Reads" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1garf41awxmj314t04lt8v.jpg" alt="Related Reads" loading="lazy"></figure>
+<blockquote>
+<p><a href="https://livefunlearning.github.io/post/Skype_Handbook/">Skype使用指南</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://livefunlearning.github.io/post/Zoom_Handbook/">Zoom使用指南</a></p>
+</blockquote>
+<blockquote>
 <p>🔙<a href="https://livefunlearning.github.io/">返回首页</a></p>
+</blockquote>
+<figure data-type="image" tabindex="4"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Dots-3.png" alt="Dots_3" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
