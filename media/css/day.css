@@ -334,7 +334,7 @@ background: #fff;
 }
 blockquote {
   position: center;
-  padding: 10px 15px 10px 60px;
+  padding: 10px 60px 10px 60px;
   box-sizing: border-box;
   font-style: normal;
   background: #f8f8f8;
@@ -342,18 +342,7 @@ blockquote {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0);
 }
 
-blockquote:before{
-  display: inline-block;
-  position: absolute;
-  top: 15px;
-  left: 15px;
-  content: "\e63c";
-  font-family: "iconfont" !important;
-  color: #5574BE;
-  font-size: 30px;
-  line-height: 1;
 
-}
 
 blockquote p {
   padding: 0;
