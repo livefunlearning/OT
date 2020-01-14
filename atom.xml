@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-01-14T08:16:45.207Z</updated>
+    <updated>2020-01-14T08:18:46.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -19,7 +19,8 @@
         <content type="html"><![CDATA[<hr>
 <img src="https://i.loli.net/2020/01/14/lau1Th6KZiYwqQU.png" alt="cover" style="zoom:200%;" />
 ​
-<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/01_futura_bold.png" alt="01" loading="lazy"></figure>
+​
+![01](https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/01_futura_bold.png)
 <h2 id="step-1-联系学生"><strong>Step 1  联系学生</strong></h2>
 <p>大多数中国人习惯将沟通、生活、学习、工作都交给便利的微信，而LFL外国学生则更喜欢将沟通(Email)、上课(Skype/Zoom)、个人生活(Facebook/Instagram/Twitter/WhatsApp)分开交给不同的APP。鉴于师生的不同习惯，建议教师：</p>
 <p>发Welcome Email确认首次上课时间，说明上课工具(如Skype)与教师其它联系方式(如微信号)</p>
@@ -77,7 +78,7 @@
 <li>课后写LR。无论每周课分几次上完，当周的LR只交一份——最后一次课结束后，写好发给学生并上传云盘。</li>
 <li><a href="https://raw.githubusercontent.com/livefunlearning/pic/master/Recording%E8%AF%B4%E6%98%8E.png">Recording</a>：第一周或第二周进行。LFL会具体说明。</li>
 </ul>
-<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Dots-3.png" alt="分隔线" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Dots-3.png" alt="分隔线" loading="lazy"></figure>
 <h2 id="smart-working"><strong>SMART WORKING</strong></h2>
 <p>就像教师注重学生的课堂表现与学习能力一样，我们看重的不只是教师的教学素养，还有工作能力。若想顺利通过实习，得到LFL、LFL外方大学及其学生的认可，“死工作”可不是一个好办法。以下分享一下“LFL历届教师”的高效工作方法。</p>
 <blockquote>
@@ -113,7 +114,7 @@ Best,
 <p>​<br>
 <img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9knlnkvo6j31ag0t2aev.jpg" alt="时差换算" style="zoom:200%;" /></p>
 <img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9ly261jrmj31hc0u0gqk.jpg" alt="中美时差" style="zoom:200%;" />
-<figure data-type="image" tabindex="3"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Dots-3.png" alt="分隔线" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Dots-3.png" alt="分隔线" loading="lazy"></figure>
 <p>🔙<a href="https://livefunlearning.github.io/">返回首页</a></p>
 ]]></content>
     </entry>
