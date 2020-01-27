@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-01-27T08:05:39.633Z</updated>
+    <updated>2020-01-27T08:06:07.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://livefunlearning.github.io/post/recording</id>
         <link href="https://livefunlearning.github.io/post/recording">
         </link>
-        <updated>2020-01-27T07:52:55.000Z</updated>
+        <updated>2020-01-14T07:52:55.000Z</updated>
         <content type="html"><![CDATA[<h1 id="录音步骤与工具">录音步骤与工具</h1>
 <hr>
 <figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/livefunlearning/pic/master/Recording%E8%AF%B4%E6%98%8E.png" alt="查看Recording步骤与工具" loading="lazy"></figure>
