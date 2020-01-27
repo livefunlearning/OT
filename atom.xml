@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-01-27T08:31:20.299Z</updated>
+    <updated>2020-01-27T08:34:29.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -18,8 +18,8 @@
         <updated>2020-01-14T07:52:55.000Z</updated>
         <content type="html"><![CDATA[<h1 id="录音步骤与工具">录音步骤与工具</h1>
 <hr>
-<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/livefunlearning/pic/master/Recording%E8%AF%B4%E6%98%8E.png" alt="查看Recording步骤与工具" loading="lazy"></figure>
-<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="分隔线" loading="lazy"></figure>
+<img src="https://raw.githubusercontent.com/livefunlearning/pic/master/Recording说明.png" alt="查看Recording步骤与工具" style="zoom:300%;" />
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="分隔线" loading="lazy"></figure>
 <h1 id="录音技巧">录音技巧</h1>
 <hr>
 <p>在网络教学时，学生视频设备的屏幕大小就是黑板或白板的大小。虽然网课学生离“白板”更近了，但“白板”面积也小了不少。因此，在有录音的那节课：</p>
@@ -27,13 +27,13 @@
 <li>提醒学生使用更大的屏幕，如用电脑、不用手机。</li>
 <li>用「屏幕共享」展示录音文本之前，确定文本上中文字体为楷体；使用大号文字，或能放大文字的功能或APP。</li>
 </ol>
-<figure data-type="image" tabindex="3"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="分隔线" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="分隔线" loading="lazy"></figure>
 <h1 id="如何在屏幕上舒服地展示录音文本">如何在屏幕上舒服地展示录音文本</h1>
 <hr>
 <p><em>说明：以下仅为其中一种方式</em><br>
 如使用.doc(x)文档，推荐使用MS Word。屏幕共享时，可借助「绘图/Draw」功能，遮挡不须让学生看到的文字，或者高亮重要段落。</p>
 <img src="https://raw.githubusercontent.com/livefunlearning/pic/master/MSWord_Draw_Demo.gif" alt="MSWord_Draw_Demo" style="zoom:300%;" />
-<figure data-type="image" tabindex="4"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="分隔线" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="分隔线" loading="lazy"></figure>
 <p>🔙<a href="https://livefunlearning.github.io/">返回首页</a></p>
 ]]></content>
     </entry>
