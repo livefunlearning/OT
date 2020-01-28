@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-01-27T08:35:06.610Z</updated>
+    <updated>2020-01-28T02:48:16.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -130,10 +130,10 @@ Best,
 <figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="分隔线" loading="lazy"></figure>
 <h1 id="录音技巧">录音技巧</h1>
 <hr>
-<p>在网络教学时，学生视频设备的屏幕大小就是黑板或白板的大小。虽然网课学生离“白板”更近了，但“白板”面积也小了不少。因此，在有录音的那节课：</p>
+<p>在网络教学时，学生视频设备的屏幕大小就是黑板或白板的大小。虽然网课学生离“白板”更近了，但“白板”面积也小了不少，于是适用于纸版印刷品的字号、字体，放在屏幕上，没一两分钟眼睛就会觉得很不舒服。因此，在有录音的那节课：</p>
 <ol>
 <li>提醒学生使用更大的屏幕，如用电脑、不用手机。</li>
-<li>用「屏幕共享」展示录音文本之前，确定文本上中文字体为楷体；使用大号文字，或能放大文字的功能或APP。</li>
+<li>用「屏幕共享」展示录音文本之前，确定文本上中文字体为楷体；使用大号文字，或使用能放大文字的功能或APP。</li>
 </ol>
 <figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="分隔线" loading="lazy"></figure>
 <h1 id="如何在屏幕上舒服地展示录音文本">如何在屏幕上舒服地展示录音文本</h1>
