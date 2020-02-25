@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-02-10T14:42:57.479Z</updated>
+    <updated>2020-02-25T12:55:23.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, Live &amp; Fun Learning</rights>
     <entry>
         <title type="html"><![CDATA[First Tutoring]]></title>
-        <id>https://livefunlearning.github.io/post/first-tutoring</id>
-        <link href="https://livefunlearning.github.io/post/first-tutoring">
+        <id>https://livefunlearning.github.io/post/first-tutoring/</id>
+        <link href="https://livefunlearning.github.io/post/first-tutoring/">
         </link>
         <updated>2020-01-05T14:00:00.000Z</updated>
         <content type="html"><![CDATA[<hr>
@@ -120,8 +120,8 @@ Best,
     </entry>
     <entry>
         <title type="html"><![CDATA[Recording]]></title>
-        <id>https://livefunlearning.github.io/post/recording</id>
-        <link href="https://livefunlearning.github.io/post/recording">
+        <id>https://livefunlearning.github.io/post/recording/</id>
+        <link href="https://livefunlearning.github.io/post/recording/">
         </link>
         <updated>2020-01-04T07:52:55.000Z</updated>
         <content type="html"><![CDATA[<h1 id="录音步骤与工具">录音步骤与工具</h1>
@@ -143,13 +143,17 @@ Best,
 如使用.doc(x)文档，推荐使用MS Word。屏幕共享时，可借助「绘图/Draw」功能，遮挡不须让学生看到的文字，或者高亮重要段落。</p>
 <img src="https://raw.githubusercontent.com/livefunlearning/pic/master/MSWord_Draw_Demo.gif" alt="MSWord_Draw_Demo" style="zoom:300%;" />
 <figure data-type="image" tabindex="3"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="分隔线" loading="lazy"></figure>
+<h1 id="zoom和skype如何录像">Zoom和Skype如何录像</h1>
+<p>Zoom：2.5 视频录制与保存 <a href="https://livefunlearning.github.io/post/Zoom_Handbook/">跳转查看</a><br>
+Skype：2.4 视频录制与保存 <a href="https://livefunlearning.github.io/post/Skype_Handbook/">跳转查看</a></p>
+<figure data-type="image" tabindex="4"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="分隔线" loading="lazy"></figure>
 <p>🔙<a href="https://livefunlearning.github.io/">返回首页</a></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中文教学资料书写指南]]></title>
-        <id>https://livefunlearning.github.io/post/Formatting</id>
-        <link href="https://livefunlearning.github.io/post/Formatting">
+        <id>https://livefunlearning.github.io/post/Formatting/</id>
+        <link href="https://livefunlearning.github.io/post/Formatting/">
         </link>
         <updated>2019-12-01T14:10:46.000Z</updated>
         <content type="html"><![CDATA[<hr>
@@ -242,8 +246,8 @@ Best,
     </entry>
     <entry>
         <title type="html"><![CDATA[视频工具及使用]]></title>
-        <id>https://livefunlearning.github.io/post/Video_Apps</id>
-        <link href="https://livefunlearning.github.io/post/Video_Apps">
+        <id>https://livefunlearning.github.io/post/Video_Apps/</id>
+        <link href="https://livefunlearning.github.io/post/Video_Apps/">
         </link>
         <updated>2019-12-01T14:01:01.000Z</updated>
         <content type="html"><![CDATA[<p>作为网络课堂教师，保证良好的网络教室环境(视频声画)及网络质量是教师最基本的职责。LFL网络课堂一般使用视频。当然，在网速突然变慢严重影响上课时，应以教学质量为重，立即改为语音或让网络质量较好的对方，重新发起视频邀请。因此，以下篇章将从网课教学时需使用的功能与工具逐一展开。</p>
@@ -319,8 +323,8 @@ Best,
     </entry>
     <entry>
         <title type="html"><![CDATA[Teacher Onboarding | 熟悉你的工作及与你一起并肩的伙伴]]></title>
-        <id>https://livefunlearning.github.io/post/Teacher_Onboarding</id>
-        <link href="https://livefunlearning.github.io/post/Teacher_Onboarding">
+        <id>https://livefunlearning.github.io/post/Teacher_Onboarding/</id>
+        <link href="https://livefunlearning.github.io/post/Teacher_Onboarding/">
         </link>
         <updated>2019-12-01T14:00:00.000Z</updated>
         <content type="html"><![CDATA[<pre><code>S P R I N G   S E M E S T E R
