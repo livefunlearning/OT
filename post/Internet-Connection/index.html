@@ -306,23 +306,27 @@ window.onload=getCSS();
 <ol>
 <li>
 <p>打开电脑</p>
-<p>**Windows：**开始→搜索→输入 cmd→回车。</p>
+<p><strong>Windows：</strong> 开始→搜索→输入 cmd→回车。</p>
+<p><strong>Mac：</strong> Command+空格→输入 Terminal→回车。</p>
 </li>
-</ol>
-<p>** Mac：**Command+空格→输入 Terminal→回车。</p>
-<ol start="2">
-<li>此时Terminal被打开。接着，输入下列文字，再点击回车。</li>
+<li>
+<p>此时Terminal被打开。接着，输入下列文字，再点击回车。</p>
+</li>
 </ol>
 <pre><code>ping -n 50 8.8.8.8
 </code></pre>
 <ol start="3">
-<li>一分钟后，出现如下文字。</li>
-</ol>
-<p>** Windows：**Ping statistics for 8.8.8.8:<br>
+<li>
+<p>一分钟后，出现如下文字。<br>
+<strong>Windows：</strong><br>
+Ping statistics for 8.8.8.8:<br>
 Packets: Sent = 50, Received = 50, Lost = 0 (<strong>0% loss</strong>)</p>
-<p>**Mac：**50 packets transmitted, 50 packets received, <strong>0.0% packet loss</strong><br>
+<p><strong>Mac：</strong><br>
+50 packets transmitted, 50 packets received, <strong>0.0% packet loss</strong><br>
 round-trip min/avg/max/stddev = 58.761/59.494/60.527/0.413 ms</p>
 <p>此时可见<strong>丢包率(Packet loss)<strong>为</strong>0.0%</strong> 。</p>
+</li>
+</ol>
 <figure data-type="image" tabindex="6"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Dots-3.png" alt="Dots_3" loading="lazy"></figure>
 <h2 id="附录">附录</h2>
 <table>
