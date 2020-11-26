@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-11-20T13:17:02.672Z</updated>
+    <updated>2020-11-26T07:35:04.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://livefunlearning.github.io/post/first-tutoring/</id>
         <link href="https://livefunlearning.github.io/post/first-tutoring/">
         </link>
-        <updated>2020-09-05T14:00:00.000Z</updated>
+        <updated>2020-11-25T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[<hr>
 <img src="https://i.loli.net/2020/01/14/lau1Th6KZiYwqQU.png" alt="cover" style="zoom:200%;" />
 ​
@@ -25,10 +25,19 @@
 <p>大多数中国人习惯将沟通、生活、学习、工作都交给便利的微信，而LFL外国学生则更喜欢将沟通(Email)、上课(Skype/Zoom)、个人生活(Facebook/Instagram/Twitter/WhatsApp)分开交给不同的APP。鉴于师生的不同习惯，建议教师：</p>
 <p>发Welcome Email确认首次上课时间，说明上课工具(如Skype)与教师其它联系方式(如微信号)</p>
 <ol>
-<li>Email：参考Welcome Email示例 - <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=1&amp;sn=9815fb077dd6c92818f410c2c3ae5907&amp;chksm=3e8e281d09f9a10b6efe61d081762f7d1acc3f3c6d07b339e618b8679ee1a86ba727f7ca1bcd#rd">密歇根</a> | <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=2&amp;sn=db5c015c385f63dcb6b4fddfb5d1cd3f&amp;chksm=3e8e281d09f9a10bd451d477fe085b3fc0f10501cb12eb2bcedcb786d4c2b94fec913031a8cf#rd">布兰戴斯</a> | <a href="http://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=3&amp;sn=e5d5de39fbe0e81bfc5124d82af5752d&amp;chksm=3e8e281d09f9a10b1913abd65410963cb5d8671f1431e33cd56afdf1ca49680657a4e8ab2356#rd">诺丁汉</a> | <a href="https://t.1yb.co/3F3">纽大</a></li>
-<li>微信：如学生有微信，可打招呼、发送Welcome Email截图；<strong>如学生无微信或微信号有误，请勿要求学生注册微信</strong>。由于微信加大了外国新注册用户的限制，即使有中国老师、朋友的协助，外国新用户也很难通过微信认证。</li>
-<li>(如有)Skype：教师可用个人Hotmail或Outlook地址登录Skype，给学生打招呼、发送Welcome Email截图作为提醒</li>
-<li>(如有)非国内社交网：学生的注册表如有social media信息，教师可利用「科学上网工具」进一步了解学生并与其建立联系。「科学上网工具」是什么、怎么用？请百度查询；推荐的工具见“LFL云盘/技术支持”</li>
+<li>
+<p>Email：参考Welcome Email示例 - <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=1&amp;sn=9815fb077dd6c92818f410c2c3ae5907&amp;chksm=3e8e281d09f9a10b6efe61d081762f7d1acc3f3c6d07b339e618b8679ee1a86ba727f7ca1bcd#rd">密歇根</a> | <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=2&amp;sn=db5c015c385f63dcb6b4fddfb5d1cd3f&amp;chksm=3e8e281d09f9a10bd451d477fe085b3fc0f10501cb12eb2bcedcb786d4c2b94fec913031a8cf#rd">布兰戴斯</a> | <a href="http://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=3&amp;sn=e5d5de39fbe0e81bfc5124d82af5752d&amp;chksm=3e8e281d09f9a10b1913abd65410963cb5d8671f1431e33cd56afdf1ca49680657a4e8ab2356#rd">诺丁汉</a> | <a href="https://t.1yb.co/3F3">纽大</a></p>
+<p>为确保顺利收到学生回复，进入Outlook，分别在「通讯录」、「设置 - 垃圾邮件 - Safe senders and domains」中，添加学生邮箱地址。（<a href="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/WhitelistEmailAddressWithOutlook.jpg">查看图示</a>）</p>
+</li>
+<li>
+<p>微信：如学生有微信，可打招呼、发送Welcome Email截图；<strong>如学生无微信或微信号有误，请勿要求学生注册微信</strong>。由于微信加大了外国新注册用户的限制，即使有中国老师、朋友的协助，外国新用户也很难通过微信认证。</p>
+</li>
+<li>
+<p>(如有)Skype：教师可用个人Hotmail或Outlook地址登录Skype，给学生打招呼、发送Welcome Email截图作为提醒</p>
+</li>
+<li>
+<p>(如有)非国内社交网：学生的注册表如有social media信息，教师可利用「科学上网工具」进一步了解学生并与其建立联系。「科学上网工具」是什么、怎么用？请百度查询；推荐的工具见“LFL云盘/技术支持”</p>
+</li>
 </ol>
 <p><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="blank" loading="lazy"><br>
 <img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/02_futura_bold.PNG" alt="02" loading="lazy"></p>
@@ -53,10 +62,19 @@
 <p>大多数中国人习惯将沟通、生活、学习、工作都交给便利的微信，而LFL外国学生则更喜欢将沟通(Email)、上课(Skype/Zoom)、个人生活(Facebook/Instagram/Twitter/WhatsApp)分开交给不同的APP。鉴于师生的不同习惯，建议教师：</p>
 <p>发Welcome Email确认首次上课时间，说明上课工具(如Skype)与教师其它联系方式(如微信号)</p>
 <ol>
-<li>Email：参考Welcome Email示例 - <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=1&amp;sn=9815fb077dd6c92818f410c2c3ae5907&amp;chksm=3e8e281d09f9a10b6efe61d081762f7d1acc3f3c6d07b339e618b8679ee1a86ba727f7ca1bcd#rd">密歇根</a> | <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=2&amp;sn=db5c015c385f63dcb6b4fddfb5d1cd3f&amp;chksm=3e8e281d09f9a10bd451d477fe085b3fc0f10501cb12eb2bcedcb786d4c2b94fec913031a8cf#rd">布兰戴斯</a> | <a href="http://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=3&amp;sn=e5d5de39fbe0e81bfc5124d82af5752d&amp;chksm=3e8e281d09f9a10b1913abd65410963cb5d8671f1431e33cd56afdf1ca49680657a4e8ab2356#rd">诺丁汉</a> | <a href="https://t.1yb.co/3F3">纽大</a></li>
-<li>微信：如学生有微信，可打招呼、发送Welcome Email截图；<strong>如学生无微信或微信号有误，请勿要求学生注册微信</strong>。由于微信加大了外国新注册用户的限制，即使有中国老师、朋友的协助，外国新用户也很难通过微信认证。</li>
-<li>(如有)Skype：教师可用个人Hotmail或Outlook地址登录Skype，给学生打招呼、发送Welcome Email截图作为提醒</li>
-<li>(如有)非国内社交网：学生的注册表如有social media信息，教师可利用「科学上网工具」进一步了解学生并与其建立联系。「科学上网工具」是什么、怎么用？请百度查询；推荐的工具见“LFL云盘/技术支持”</li>
+<li>
+<p>Email：参考Welcome Email示例 - <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=1&amp;sn=9815fb077dd6c92818f410c2c3ae5907&amp;chksm=3e8e281d09f9a10b6efe61d081762f7d1acc3f3c6d07b339e618b8679ee1a86ba727f7ca1bcd#rd">密歇根</a> | <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=2&amp;sn=db5c015c385f63dcb6b4fddfb5d1cd3f&amp;chksm=3e8e281d09f9a10bd451d477fe085b3fc0f10501cb12eb2bcedcb786d4c2b94fec913031a8cf#rd">布兰戴斯</a> | <a href="http://mp.weixin.qq.com/s?__biz=MjM5NDQxMjcxNQ==&amp;mid=502442457&amp;idx=3&amp;sn=e5d5de39fbe0e81bfc5124d82af5752d&amp;chksm=3e8e281d09f9a10b1913abd65410963cb5d8671f1431e33cd56afdf1ca49680657a4e8ab2356#rd">诺丁汉</a> | <a href="https://t.1yb.co/3F3">纽大</a></p>
+<p>为确保顺利收到学生回复，进入Outlook，分别在「通讯录」、「设置 - 垃圾邮件 - Safe senders and domains」中，添加学生邮箱地址。（<a href="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/WhitelistEmailAddressWithOutlook.jpg">查看图示</a>）</p>
+</li>
+<li>
+<p>微信：如学生有微信，可打招呼、发送Welcome Email截图；<strong>如学生无微信或微信号有误，请勿要求学生注册微信</strong>。由于微信加大了外国新注册用户的限制，即使有中国老师、朋友的协助，外国新用户也很难通过微信认证。</p>
+</li>
+<li>
+<p>(如有)Skype：教师可用个人Hotmail或Outlook地址登录Skype，给学生打招呼、发送Welcome Email截图作为提醒</p>
+</li>
+<li>
+<p>(如有)非国内社交网：学生的注册表如有social media信息，教师可利用「科学上网工具」进一步了解学生并与其建立联系。「科学上网工具」是什么、怎么用？请百度查询；推荐的工具见“LFL云盘/技术支持”</p>
+</li>
 </ol>
 <p><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="blank" loading="lazy"><br>
 <img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/02_futura_bold.PNG" alt="02" loading="lazy"></p>
