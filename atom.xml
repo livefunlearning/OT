@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livefunlearning.github.io</id>
     <title>Live &amp; Fun Learning</title>
-    <updated>2020-12-06T04:18:05.199Z</updated>
+    <updated>2020-12-06T04:32:29.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://livefunlearning.github.io"/>
     <link rel="self" href="https://livefunlearning.github.io/atom.xml"/>
@@ -190,7 +190,7 @@
         <content type="html"><![CDATA[<hr>
 <p>在LFL，知识与经验是能够共享的。为了保证贡献者与阅读者都能有最好的使用体验，我们在教学文书的格式与风格上制定了一些规范。这些规范并非强制规定，但一份语句通顺、逻辑严谨、排版清晰的教学资料不仅能够提升使用者的阅读体验，更能提高工作效率，在上课时快速定位知识点或截图复制段落发给学生。同时，除板书外，给学生发送的一切资料或信息(如邮件)，都可参考这些规范。</p>
 <p>本《指南》参考了LFL以往众多优秀教学资料的风格，并将继续收集更多优秀建议。如在教学过程中有任何想法或建议，请分享给我们。</p>
-<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="blank" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/BlankTransparent.png" alt="blank" loading="lazy"></figure>
 <h1 id="一-资料书写">一. 资料书写</h1>
 <h2 id="文档类型">文档类型</h2>
 <ol>
@@ -205,7 +205,7 @@
 </li>
 <li>
 <p>视频上课时，将提前准备的板书文档进行屏幕共享。如临时需手写文字，请避免写连笔字，尤其是在教初级水平的学生时。<br>
-<img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="blank" loading="lazy"></p>
+<img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/BlankTransparent.png" alt="blank" loading="lazy"></p>
 </li>
 </ol>
 <h2 id="书写格式">书写格式</h2>
@@ -225,7 +225,7 @@
 <p>行距</p>
 <p>通篇1.5倍，无需增加段前距或段后距。</p>
 <p>段落之间、语言点之间空一行</p>
-<figure data-type="image" tabindex="3"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="blank" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/BlankTransparent.png" alt="blank" loading="lazy"></figure>
 </li>
 </ol>
 <h2 id="标点符号">标点符号</h2>
@@ -249,7 +249,7 @@
 <p>不建议重复使用标点符号或波浪号，尤其是在表达强烈情感的时候。例如：</p>
 <p>推荐：这个太好吃了！我很喜欢。</p>
 <p>不推荐：这个太好吃了！！！我喜欢~~</p>
-<figure data-type="image" tabindex="4"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="blank" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/BlankTransparent.png" alt="blank" loading="lazy"></figure>
 </li>
 </ol>
 <h2 id="专有名词">专有名词</h2>
@@ -263,7 +263,7 @@
 <p>请正确书写常用英文名词的大小写和空格。例如：</p>
 <p>正：联合国（United Nations或UN）、中国（China）</p>
 <p>误：联合国（unitednations或un）、中国（china）</p>
-<figure data-type="image" tabindex="5"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="blank" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/BlankTransparent.png" alt="blank" loading="lazy"></figure>
 </li>
 </ol>
 <h1 id="二-网课板书展示技巧">二. 网课板书展示技巧</h1>
@@ -279,10 +279,10 @@
 <p>文档工具：Microsoft-PowerPoint、Word；Apple-Keynote、Pages</p>
 <p>白板工具：Microsoft Whiteboard、Explain Everything</p>
 <p>苹果端：GoodNotes、Notability、原生笔记App；iPad+Apple pencil</p>
-<figure data-type="image" tabindex="6"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="blank" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/BlankTransparent.png" alt="blank" loading="lazy"></figure>
 <h2 id="展示文字的大小">展示文字的大小</h2>
 <p>在教室上课时，无论是在白板、黑板上手写板书，还是在投影、一体机上播放PPT，有经验的老师都不会选取写论文时所用的字号，而是有意将文档中的字号、行间距放大，甚至还会在课前试播时，走到教室最后一排，检查文字是否够大够清晰。同样，在网上课堂展示文本时，教师也不应选取写教案时所用的字号、行间距。尤其是对初学者来说，光是盯着屏幕就已让眼睛增加了几分疲劳，再从布满密密麻麻小方块字的教案中寻找老师让“我”读的那句话。请善待屏幕另一端的外国人。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="blank" loading="lazy"><br>
+<p><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/BlankTransparent.png" alt="blank" loading="lazy"><br>
 不妨亲自感受一下。首先将屏幕保持个人平时的阅读距离，然后将图片全屏显示。勿看汉字、仅看右边的拼音，依次从下方四张图中找到指定拼音，并注意视觉舒适度与拼音的搜寻时间的变化。</p>
 <ol>
 <li>
@@ -306,7 +306,7 @@
 <p>除了横版与竖版的版面之差外，注意右下角的展示缩放度(100%或140%)。同在右下方的还有MS Word的「专注」功能，点击后感受一下如同播放PPT一样的无干扰视觉环境。</p>
 </li>
 </ol>
-<figure data-type="image" tabindex="10"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="blank" loading="lazy"></figure>
+<figure data-type="image" tabindex="10"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/BlankTransparent.png" alt="blank" loading="lazy"></figure>
 <h1 id="三-总结">三. 总结</h1>
 <p>无论是用PPT，还是MS Word或者其它工具，在网课教学时字体、字号、行间距、即时注释工具将对学习者产生直接影响。</p>
 <ol>
@@ -369,15 +369,15 @@
 ▲ Photo Credit | zhuanlan.zhihu.com/p/87136395<br>
 ​</p>
 <h3 id="网络课堂如何展示板书">网络课堂如何展示板书</h3>
-<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="blank" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/BlankTransparent.png" alt="blank" loading="lazy"></figure>
 <blockquote>
 <p>网速好时，视频+屏幕共享；网速欠佳，语音+在线白板。</p>
 </blockquote>
-<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="blank" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/BlankTransparent.png" alt="blank" loading="lazy"></figure>
 <h4 id="方法一-视频屏幕共享">方法一 | 视频+屏幕共享</h4>
 <p>利用视频教学工具Zoom或Skype的「屏幕共享」功能，可将教师电脑桌面的指定文档同步呈现在学生的电脑屏幕上。</p>
 <figure data-type="image" tabindex="3"><img src="https://tva1.sinaimg.cn/large/006tNbRwly1gapiomtikjj314i0n20v3.jpg" alt="Zoom_Screen_Share" loading="lazy"></figure>
-<figure data-type="image" tabindex="4"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="blank" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/BlankTransparent.png" alt="blank" loading="lazy"></figure>
 <h4 id="方法二-语音在线白板">方法二 | 语音+在线白板</h4>
 <p><strong>推荐工具</strong></p>
 <ul>
@@ -392,14 +392,14 @@
 </li>
 </ul>
 <figure data-type="image" tabindex="5"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/Keynote_live.JPEG" alt="KeynoteLive" loading="lazy"></figure>
-<figure data-type="image" tabindex="6"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="blank" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/BlankTransparent.png" alt="blank" loading="lazy"></figure>
 <p><strong>挑选在线教学白板的标准</strong></p>
 <ol>
 <li>支持文字、图片导入。一般老师们都会在自己喜欢的文字处理工具(如Word)上备课，然后只需删掉不需呈现在板书上的文字，一份板书就形成了。那么，一个合适的白板，应能快速导入板书上的内容。</li>
 <li>实时、同步。教师在手机上翻页，学生可立刻在自己的电脑上看到。</li>
 <li>可手写、可打字。利用画笔可直接在板书上描绘标记，同时还可在板书文字旁快速输入拼音和声调。</li>
 </ol>
-<figure data-type="image" tabindex="7"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/blank.png" alt="blank" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://cdn.jsdelivr.net/gh/livefunlearning/pic@master/img/BlankTransparent.png" alt="blank" loading="lazy"></figure>
 <h1 id="2-lfl视频教学工具">2. LFL视频教学工具</h1>
 <p>对中国区的用户来说，Skype使用更方便，甚至不需在电脑上下载客户端，打开浏览器输入网址即可开始教学；Zoom的网速比Skype更有保证，但目前仅可由学生share link or room ID。</p>
 <h2 id="skype">Skype</h2>
